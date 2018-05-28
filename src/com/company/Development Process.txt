@@ -1,0 +1,25 @@
+While you are working to implement this challenge, you must document your entire work: your initial thoughts, plans, approach, unit test results, overall result, results analysis, and conclusion. It is highly recommended that your documentation is as thorough as possible.
+
+Initial Thoughts:
+Should I use a database to handle the data? Did some research on sql and nosql and realized that in either situation, I won't need to plan to host my own database server as output should be written to a csv file.
+
+List data structure might be the best option to hold the two categories of ppl
+
+Will I need to check/sort every customer? I will need to compare something with each customer, and the best way to do this will be to compare the coordinates to check if they are within the 10 mile radius. and if they are, I will put them into a match list and sort when i reach the end of the recipient list
+
+To parse I will need to use commas, ',', as the delimiter and new lines '/n' to seperate each customer/recipient object.
+
+
+Plan:
+Create two classes, customer and recipient to hold information
+
+Parse customer and recipients into their respective objects and put them into their lists: customer_list, recipient_list
+
+Create a function to calculate the distance between two coordinates
+
+Add to the customer list a list of matches to hold the recpients found within the 10 mile radius and sort when a customer has compared itself to all recipients.
+
+Miles between longitude and latitude coordinates -> those that are in 10 mile ranges of the customer I will save into a data structure for futher sorting
+
+Output results to CSV file in some format -> Customer  | List of Recipients -> Address, Miles away, List of Receivers
+I was thinking that if there was a feature that the application can plan out mutliple routes/destinations creating multiple csv files can be used as a cache for the present and be updated as the user finishes each of their trips and location/traffic changes 
