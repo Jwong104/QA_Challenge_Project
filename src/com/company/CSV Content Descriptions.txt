@@ -11,7 +11,8 @@ Bit 5: Frozen
 
 PickupAt and TimeZoneId are critical components for determining the exact date & time of pickup.
 PickupAt format is defined by ISO 8601
-TimeZoneId value is an IANA zone information, which is useful in accounting for timezones and daylight savings. You can expect to use “America/Los_Angeles” for this value.
+TimeZoneId value is an IANA zone information, which is useful in accounting for timezones and daylight savings.
+You can expect to use “America/Los_Angeles” for this value.
 
 =============================================================================
 
@@ -22,7 +23,25 @@ Restrictions are categories that recipients CANNOT accept.
 
 Notice that there are Columns for days of the week in Recipients.csv. Those are the stated hours of operations.
 Each rows for each of the days of the week is a bit-packed value defined by the following positional fields:
-Bit 0: 8-9AM
-Bit 1: 9-10AM
-…
-Bit 15: 11-12AM
+Bit 0:  08-09  AM
+Bit 1:  09-10  AM
+Bit 2:  10-11  PM
+Bit 3:  11-12  PM
+Bit 4:  12-13  PM
+Bit 5:  13-14  PM
+Bit 6:  14-15  PM
+Bit 7:  15-16  PM
+Bit 8:  16-17  PM
+Bit 9:  17-18  PM
+Bit 10: 18-19  PM
+Bit 11: 19-20  PM
+Bit 12: 20-21  PM
+Bit 13: 21-22  PM
+Bit 14: 22-23  PM
+Bit 15: 23-00  AM
+
+Donating     Receiving      Result
+    0        0        1
+    0        1        1
+    1        0        0
+    1        1        1

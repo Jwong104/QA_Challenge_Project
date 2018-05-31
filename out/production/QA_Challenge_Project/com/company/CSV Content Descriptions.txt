@@ -34,11 +34,11 @@ Bit 7:  15-16  PM
 Bit 8:  16-17  PM
 Bit 9:  17-18  PM
 Bit 10: 18-19  PM
-Bit 11: 20-21  PM
-Bit 12: 21-22  PM
-Bit 13: 22-23  PM
-Bit 14: 23-24  PM
-Bit 15: 23-24  AM
+Bit 11: 19-20  PM
+Bit 12: 20-21  PM
+Bit 13: 21-22  PM
+Bit 14: 22-23  PM
+Bit 15: 23-00  AM
 
 Donating     Receiving      Result
     0        0        1
