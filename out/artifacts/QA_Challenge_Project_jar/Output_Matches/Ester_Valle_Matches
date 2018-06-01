@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ester,Valle,102 Delaware Avenue,San Francisco,CA,94107,US,EsterCValle@teleworm.us,415-310-2239,0
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,4.1726429417249555
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,6.75430619646769
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,7.768810128314968
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,7.871934639639624

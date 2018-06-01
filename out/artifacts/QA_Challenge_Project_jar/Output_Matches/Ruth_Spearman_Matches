@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ruth,Spearman,3403 Clifford Street,San Francisco,CA,94107,US,RuthRSpearman@teleworm.us,510-621-3420,0
+Recipient,Saundra,Turner,4592WolfPenRoad,SanFrancisco,CA,94107,US,SaundraKTurner@rhyta.com,650-400-4902,3.3449908867843776
+Recipient,Wanda,Sawyer,702RooseveltStreet,SanFrancisco,CA,94108,US,WandaESawyer@teleworm.us,415-403-5569,4.42910193085963
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,4.9167854319825235
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,5.667526102512738
+Recipient,Jeffrey,Vuong,1481BoringLane,SanFrancisco,CA,94108,US,JeffreyKVuong@armyspy.com,415-733-2346,7.104526840006212
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,8.40798874833296

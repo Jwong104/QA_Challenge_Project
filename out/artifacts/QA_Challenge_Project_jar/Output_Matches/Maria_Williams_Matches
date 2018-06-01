@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Maria,Williams,372 Roosevelt Street,San Francisco,CA,94143,US,MariaDWilliams@gustr.com,415-396-6915,0
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,7.516389027537433
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,9.47352922227828

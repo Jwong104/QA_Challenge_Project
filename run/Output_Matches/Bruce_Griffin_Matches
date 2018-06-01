@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Bruce,Griffin,1973 Wayside Lane,San Francisco,CA,94108,US,BruceKGriffin@armyspy.com,510-333-5126,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,4.696358375441877
+Recipient,Jason,Cook,945JimRosaLane,SanFrancisco,CA,94108,US,JasonOCook@cuvox.de,415-834-3714,7.85223023845485
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,9.845932857781673

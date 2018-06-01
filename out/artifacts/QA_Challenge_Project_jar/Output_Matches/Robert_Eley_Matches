@@ -1,0 +1,14 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Robert,Eley,4214 Park Street,San Francisco,CA,94124,US,RobertLEley@superrito.com,925-500-5913,0
+Recipient,Saundra,Turner,4592WolfPenRoad,SanFrancisco,CA,94107,US,SaundraKTurner@rhyta.com,650-400-4902,2.4582274342458206
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,3.286247706078997
+Recipient,Johnny,Messina,1977ThunderRoad,SanFrancisco,CA,94107,US,JohnnyKMessina@cuvox.de,650-549-2744,3.299587616764782
+Recipient,Wanda,Sawyer,702RooseveltStreet,SanFrancisco,CA,94108,US,WandaESawyer@teleworm.us,415-403-5569,3.820660907938207
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,6.5931143567323955
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,6.842138107480124
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,7.048831873188448
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,7.647751244315919
+Recipient,Edmund,Garcia,1305RardinDrive,SanFrancisco,CA,94143,US,EdmundHGarcia@fleckens.hu,650-690-8484,8.363871559846913
+Recipient,Imogene,Briley,2667ThunderRoad,SanFrancisco,CA,94108,US,ImogeneTBriley@superrito.com,650-483-9444,8.560655217091933
+Recipient,Carol,Davis,2832PrettyViewLane,SanFrancisco,CA,94103,US,CarolJDavis@superrito.com,707-885-2806,8.637098922449708
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,9.533837306376524

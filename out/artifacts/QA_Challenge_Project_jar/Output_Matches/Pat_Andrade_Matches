@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Pat,Andrade,4012 Pretty View Lane,San Francisco,CA,94103,US,PatAAndrade@fleckens.hu,707-929-6765,0
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,1.031435735409187
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,3.5899192362746537
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,6.720154133725168
+Recipient,Gertrude,Duprey,3391LindaleAvenue,SanFrancisco,CA,94107,US,GertrudeLDuprey@superrito.com,510-542-0544,9.752090485240254

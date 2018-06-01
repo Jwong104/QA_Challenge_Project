@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Tara,O'Donnell,3773 Station Street,San Francisco,CA,94107,US,TaraSODonnell@teleworm.us,510-978-2726,0
+Recipient,Roger,Stewart,437LocustViewDrive,SanFrancisco,CA,94143,US,RogerSStewart@superrito.com,415-894-9159,4.288409972835258
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,5.095541064662221
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,5.772360541157747
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,9.127783972283245

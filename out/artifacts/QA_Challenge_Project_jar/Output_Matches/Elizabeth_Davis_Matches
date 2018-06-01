@@ -1,0 +1,18 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Elizabeth,Davis,2110 Wolf Pen Road,San Francisco,CA,94107,US,ElizabethADavis@jourrapide.com,650-380-8854,0
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,1.0842378539683633
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,1.9034170682049583
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,2.5977858587400977
+Recipient,Linda,Brown,2870HaulRoad,SanFrancisco,CA,94143,US,LindaEBrown@superrito.com,650-999-3353,3.0462503139385944
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,3.582249000099884
+Recipient,Sharon,Ashley,1482RardinDrive,SanFrancisco,CA,94107,US,SharonWAshley@rhyta.com,650-648-3736,3.8852878792349914
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,4.111305790749892
+Recipient,Karen,Brothers,2721JimRosaLane,SanFrancisco,CA,94107,US,KarenJBrothers@fleckens.hu,415-793-2817,4.622623426061609
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,4.948134349717697
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,4.995235035582038
+Recipient,Stanley,Ryan,1394StationStreet,SanFrancisco,CA,94107,US,StanleyERyan@cuvox.de,510-978-2619,5.701664964055855
+Recipient,Karla,Isaac,2736BeechStreet,SanFrancisco,CA,94124,US,KarlaRIsaac@cuvox.de,925-800-2525,6.708797918359187
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,7.0401803214699
+Recipient,Samuel,Loper,200HarrisonStreet,SanFrancisco,CA,94112,US,SamuelVLoper@cuvox.de,415-582-5003,7.613893358524244
+Recipient,Ruth,Thornell,1807MeadowLane,SanFrancisco,CA,94103,US,RuthJThornell@rhyta.com,707-281-3007,9.477241568398801
+Recipient,Richard,King,3050EmilyRenzelliBoulevard,SanFrancisco,CA,94143,US,RichardPKing@armyspy.com,831-572-9106,9.858995255678892

@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Lucas,Williams,4359 Beech Street,San Francisco,CA,94107,US,LucasBWilliams@rhyta.com,925-856-1005,0
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,2.097970636599539
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,4.727460723469425
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,4.821176603540478
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,5.818970523548713
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,6.025303204947232

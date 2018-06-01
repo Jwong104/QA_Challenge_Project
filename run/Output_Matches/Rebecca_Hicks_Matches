@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Rebecca,Hicks,36 Park Street,San Francisco,CA,94103,US,RebeccaHHicks@gustr.com,925-459-8491,0
+Recipient,Cory,Ross,4150LocustViewDrive,SanFrancisco,CA,94108,US,CoryTRoss@fleckens.hu,415-984-7662,2.9024302038486294

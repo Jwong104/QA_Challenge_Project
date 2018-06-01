@@ -1,0 +1,26 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Lynn,Mayorga,3783 Lindale Avenue,San Francisco,CA,94104,US,LynnHMayorga@teleworm.us,510-491-8311,0
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,0.24168094668153278
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,1.0671053496654077
+Recipient,Daniel,Huffman,208RardinDrive,SanFrancisco,CA,94104,US,DanielAHuffman@rhyta.com,650-645-8239,1.370257176056878
+Recipient,Steven,Sevilla,4642StationStreet,SanFrancisco,CA,94104,US,StevenSSevilla@jourrapide.com,510-921-4898,1.7998031942925272
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,1.8468761280456003
+Recipient,Marcie,Pennington,452DuckCreekRoad,SanFrancisco,CA,94105,US,MarcieTPennington@dayrep.com,650-763-7754,2.061497669088515
+Recipient,Charlene,Slade,1535LocustViewDrive,SanFrancisco,CA,94107,US,CharleneBSlade@fleckens.hu,415-997-1282,3.570055197604091
+Recipient,Linda,Brown,2870HaulRoad,SanFrancisco,CA,94143,US,LindaEBrown@superrito.com,650-999-3353,4.003470921097589
+Recipient,Lauren,Morning,4646FriendshipLane,SanFrancisco,CA,94104,US,LaurenOMorning@fleckens.hu,408-564-6856,4.346969306515051
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,4.913892210575369
+Recipient,Gerald,White,4265BoringLane,SanFrancisco,CA,94110,US,GeraldMWhite@cuvox.de,415-641-0697,5.01544777634706
+Recipient,Mary,Lininger,470RooseveltStreet,SanFrancisco,CA,94107,US,MaryJLininger@dayrep.com,415-375-7962,5.504887421315986
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,6.357343374564305
+Recipient,Betty,Boatner,1751LocustViewDrive,SanFrancisco,CA,94118,US,BettyJBoatner@gustr.com,415-933-0390,6.603004687724524
+Recipient,Dominique,Perry,1583DelawareAvenue,SanFrancisco,CA,94104,US,DominiqueMPerry@gustr.com,415-276-2823,6.664787036384047
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,6.807301605189778
+Recipient,Jason,Cook,945JimRosaLane,SanFrancisco,CA,94108,US,JasonOCook@cuvox.de,415-834-3714,8.010391461238099
+Recipient,Louella,Henshaw,4824BoringLane,SanFrancisco,CA,94107,US,LouellaLHenshaw@gustr.com,415-645-8313,8.380426567184166
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,8.432652457123178
+Recipient,Leroy,Davis,3328JimRosaLane,SanFrancisco,CA,94143,US,LeroyCDavis@superrito.com,415-836-6094,8.485018273442439
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,8.497626552484165
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,9.072405879379032
+Recipient,Susan,Carlos,2529JimRosaLane,SanFrancisco,CA,94107,US,SusanDCarlos@dayrep.com,415-862-9893,9.628066562462317
+Recipient,Alberto,Johnson,1984DelawareAvenue,SanFrancisco,CA,94108,US,AlbertoLJohnson@einrot.com,415-244-9566,9.761096439458097

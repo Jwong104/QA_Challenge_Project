@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Andre,Reinert,4650 Lynch Street,San Francisco,CA,94103,US,AndreSReinert@teleworm.us,925-215-7348,0
+Recipient,Ira,Maxwell,1909WolfPenRoad,SanFrancisco,CA,94107,US,IraIMaxwell@cuvox.de,650-403-6015,2.723143919571205
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,2.9298955396130877
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,4.602815708164718
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,4.836004990144115
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,4.910245575797908
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,6.936104399775418
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,7.591600041803964

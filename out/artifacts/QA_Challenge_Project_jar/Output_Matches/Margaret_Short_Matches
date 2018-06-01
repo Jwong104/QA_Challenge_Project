@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Margaret,Short,4267 Meadow Lane,San Francisco,CA,94108,US,MargaretJShort@gustr.com,707-319-1043,0
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,1.3715345284877207
+Recipient,Jackson,McBride,2592JimRosaLane,SanFrancisco,CA,94108,US,JacksonSMcBride@fleckens.hu,415-788-7377,5.747011025237642
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,6.962221362185521
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,7.740414610936493
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,8.25993541952371

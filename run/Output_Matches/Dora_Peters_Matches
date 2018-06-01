@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Dora,Peters,442 Roosevelt Street,San Francisco,CA,94108,US,DoraRPeters@superrito.com,415-394-0416,0
+Recipient,Johnny,Messina,1977ThunderRoad,SanFrancisco,CA,94107,US,JohnnyKMessina@cuvox.de,650-549-2744,3.5429897246117283
+Recipient,Gertrude,Duprey,3391LindaleAvenue,SanFrancisco,CA,94107,US,GertrudeLDuprey@superrito.com,510-542-0544,4.616891496696661
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,4.870572847978564
+Recipient,James,Davis,4409WolfPenRoad,SanFrancisco,CA,94107,US,JamesBDavis@fleckens.hu,650-392-2779,7.809437931273274
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,8.351959332716529
+Recipient,Tanya,Matthews,1780BlackOakHollowRoad,SanFrancisco,CA,94107,US,TanyaKMatthews@teleworm.us,408-702-0996,8.710438403217452

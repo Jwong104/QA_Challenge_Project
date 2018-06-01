@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Gary,Kim,932 Locust View Drive,San Francisco,CA,94108,US,GaryCKim@einrot.com,415-955-4432,0
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,1.2763651248019918
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,4.1784141914303925
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,5.201825427586492
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,5.763523498597821
+Recipient,Treva,Bryant,2767BlackOakHollowRoad,SanFrancisco,CA,94107,US,TrevaDBryant@jourrapide.com,408-702-0972,7.656283947698123
+Recipient,Carolyn,McRae,3044JimRosaLane,SanFrancisco,CA,94143,US,CarolynDMcRae@superrito.com,415-768-9876,9.1040085365627

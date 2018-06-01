@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Lois,Allen,4086 Wolf Pen Road,San Francisco,CA,94107,US,LoisJAllen@jourrapide.com,650-392-5240,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,0.2902112656515198
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,3.5338240575781192
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.030839336326515
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,7.748220747542504

@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Amy,West,2826 Alexander Avenue,San Francisco,CA,94108,US,AmyEWest@fleckens.hu,925-549-0387,0
+Recipient,Kathryn,McDuffie,2231ThunderRoad,SanFrancisco,CA,94104,US,KathrynJMcDuffie@superrito.com,650-581-3448,3.9814263687179277
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,6.326533523362733
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,8.203883189932863

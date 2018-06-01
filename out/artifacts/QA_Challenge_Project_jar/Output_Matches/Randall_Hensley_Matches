@@ -1,0 +1,16 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Randall,Hensley,3831 Boring Lane,San Francisco,CA,94110,US,RandallDHensley@cuvox.de,415-643-0587,0
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,2.037564133771046
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,2.426349452017332
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,2.469889409720748
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,2.6628730530091076
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,3.559635037401107
+Recipient,Nancy,Evans,1474LocustViewDrive,SanFrancisco,CA,94108,US,NancyREvans@einrot.com,415-986-6693,3.7702123041198434
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,4.266610115297311
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,4.343374843943109
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,5.16640456281696
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,5.648322873934735
+Recipient,Barbara,Garcia,4745HarrisonStreet,SanFrancisco,CA,94107,US,BarbaraFGarcia@einrot.com,415-515-9177,5.828662000211699
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,7.813584899616404
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,8.100790515169043
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,9.09762354580207

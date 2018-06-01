@@ -1,0 +1,17 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Berneice,Wright,2164 Ella Street,San Francisco,CA,94107,US,BerneiceDWright@fleckens.hu,650-288-4514,0
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,3.8949271858367647
+Recipient,Myra,Donohoe,2333RooseveltStreet,SanFrancisco,CA,94112,US,MyraJDonohoe@rhyta.com,415-405-2246,4.206039546827188
+Recipient,Alberto,Johnson,1984DelawareAvenue,SanFrancisco,CA,94108,US,AlbertoLJohnson@einrot.com,415-244-9566,5.074494617331094
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,5.77320000317594
+Recipient,Steven,Sevilla,4642StationStreet,SanFrancisco,CA,94104,US,StevenSSevilla@jourrapide.com,510-921-4898,5.862518333387257
+Recipient,Donna,Clark,1656EllaStreet,SanFrancisco,CA,94107,US,DonnaTClark@gustr.com,650-276-8952,6.136368379450292
+Recipient,Michael,Carter,1591DelawareAvenue,SanFrancisco,CA,94107,US,MichaelDCarter@gustr.com,415-308-3956,6.343708884651085
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,6.500120890642421
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,6.53721659835587
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,7.161947156095669
+Recipient,Jason,Cook,945JimRosaLane,SanFrancisco,CA,94108,US,JasonOCook@cuvox.de,415-834-3714,7.358308982427892
+Recipient,Rosa,Stone,3751LindaleAvenue,SanFrancisco,CA,94107,US,RosaDStone@cuvox.de,510-497-5234,7.578332155211612
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,8.288682158975043
+Recipient,Elizabeth,Jimenez,4534WolfPenRoad,SanFrancisco,CA,94107,US,ElizabethIJimenez@gustr.com,650-412-7569,8.627460674288809
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,9.650100536673603

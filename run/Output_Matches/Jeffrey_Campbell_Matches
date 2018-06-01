@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Jeffrey,Campbell,3716 Rardin Drive,San Francisco,CA,94104,US,JeffreyLCampbell@jourrapide.com,650-735-4679,0
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,2.630310337077083
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,3.183672208346204
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,6.127453398168098

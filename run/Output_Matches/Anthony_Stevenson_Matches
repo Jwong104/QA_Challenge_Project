@@ -1,0 +1,14 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Anthony,Stevenson,4587 Wolf Pen Road,San Francisco,CA,94107,US,AnthonyMStevenson@gustr.com,650-362-9068,0
+Recipient,John,Howard,4598DelawareAvenue,SanFrancisco,CA,94124,US,JohnJHoward@gustr.com,415-341-8610,2.65949176331808
+Recipient,Stanley,Ryan,1394StationStreet,SanFrancisco,CA,94107,US,StanleyERyan@cuvox.de,510-978-2619,3.702858085912037
+Recipient,Malcolm,Miller,2423HideAWayRoad,SanFrancisco,CA,94108,US,MalcolmMMiller@rhyta.com,408-250-3296,5.15720217604276
+Recipient,Chester,Smart,1307CemeteryStreet,SanFrancisco,CA,94104,US,ChesterMSmart@teleworm.us,831-824-4746,7.948453850081659
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,8.467186015677727
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,8.486808821488786
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,8.773406623672681
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,8.958651845147248
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,9.293674276120145
+Recipient,William,Fennell,2621JimRosaLane,SanFrancisco,CA,94110,US,WilliamFFennell@armyspy.com,415-824-8512,9.413609690588121
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,9.637687153512703
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,9.887954361785026

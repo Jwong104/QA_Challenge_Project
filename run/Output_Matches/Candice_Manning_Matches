@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Candice,Manning,231 Thunder Road,San Francisco,CA,94143,US,CandiceJManning@dayrep.com,650-478-8428,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,2.5413980318976517
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,2.8362857462384614
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,2.988519926346483
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,4.4809772839321065
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,5.5302802754216085
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.6430382689944425
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,5.798031003211674
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,7.166211429103881
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,7.182844031267675

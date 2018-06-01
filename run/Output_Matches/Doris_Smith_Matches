@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Doris,Smith,2811 Harrison Street,San Francisco,CA,94103,US,DorisRSmith@dayrep.com,415-581-1387,0
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,0.9582004016753695
+Recipient,Jason,Cook,945JimRosaLane,SanFrancisco,CA,94108,US,JasonOCook@cuvox.de,415-834-3714,2.4957844481389704
+Recipient,Harriet,Patel,3664RooseveltStreet,SanFrancisco,CA,94108,US,HarrietJPatel@armyspy.com,415-393-0301,2.785040416582589
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,3.1636528612613843
+Recipient,Eric,Torres,347JimRosaLane,SanFrancisco,CA,94108,US,EricATorres@teleworm.us,415-774-8659,4.774554741905486
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,6.535534793357889
+Recipient,Saundra,Turner,4592WolfPenRoad,SanFrancisco,CA,94107,US,SaundraKTurner@rhyta.com,650-400-4902,7.370880442630941
+Recipient,Samuel,Loper,200HarrisonStreet,SanFrancisco,CA,94112,US,SamuelVLoper@cuvox.de,415-582-5003,7.7150571511662145
+Recipient,Janice,Murray,439DelawareAvenue,SanFrancisco,CA,94103,US,JaniceMMurray@einrot.com,415-355-2863,9.295963114164842

@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Sara,Tobar,1801 Roosevelt Street,San Francisco,CA,94143,US,SaraWTobar@rhyta.com,415-357-3472,0
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,3.9718525909712756
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,5.699444140386058
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,6.9077721870260635
+Recipient,Harriet,Patel,3664RooseveltStreet,SanFrancisco,CA,94108,US,HarrietJPatel@armyspy.com,415-393-0301,8.054097707347397

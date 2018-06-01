@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Denise,Christensen,2683 Ella Street,San Francisco,CA,94107,US,DeniseBChristensen@teleworm.us,650-291-9975,0
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,1.8436481863649314

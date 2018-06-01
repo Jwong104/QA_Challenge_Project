@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QA_Challenge_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QA_Challenge_Project_jar</output-path>
+    <root id="archive" name="QA_Challenge_Project.jar">
+      <element id="module-output" name="QA_Challenge_Project" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="JSON-java-master" />
+    </root>
+  </artifact>
+</component>

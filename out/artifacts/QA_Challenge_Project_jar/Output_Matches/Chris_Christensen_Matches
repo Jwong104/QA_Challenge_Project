@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Chris,Christensen,2740 Delaware Avenue,San Francisco,CA,94107,US,ChrisAChristensen@rhyta.com,415-233-6945,0
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,1.8736740956673874
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,3.6684507423072197
+Recipient,Sharon,Ashley,1482RardinDrive,SanFrancisco,CA,94107,US,SharonWAshley@rhyta.com,650-648-3736,4.259253580338853
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,4.296123459647156
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,5.215650391429073
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,5.59542694215891
+Recipient,Stanley,Ryan,1394StationStreet,SanFrancisco,CA,94107,US,StanleyERyan@cuvox.de,510-978-2619,5.751549498511244
+Recipient,Ruth,Thornell,1807MeadowLane,SanFrancisco,CA,94103,US,RuthJThornell@rhyta.com,707-281-3007,6.075772217902251
+Recipient,Samuel,Loper,200HarrisonStreet,SanFrancisco,CA,94112,US,SamuelVLoper@cuvox.de,415-582-5003,7.318456152887698

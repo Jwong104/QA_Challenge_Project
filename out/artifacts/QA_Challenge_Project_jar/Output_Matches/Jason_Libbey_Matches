@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Jason,Libbey,3620 Boring Lane,San Francisco,CA,94103,US,JasonMLibbey@cuvox.de,415-703-5104,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,4.989029874023682

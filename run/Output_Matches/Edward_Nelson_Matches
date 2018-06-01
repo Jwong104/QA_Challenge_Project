@@ -1,0 +1,20 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Edward,Nelson,419 Station Street,San Francisco,CA,94104,US,EdwardPNelson@gustr.com,510-879-1407,0
+Recipient,Johnny,Schutt,4300BoringLane,SanFrancisco,CA,94110,US,JohnnyJSchutt@gustr.com,415-647-1106,1.356273427516974
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,2.590018179105022
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,3.266878966068497
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,3.848336975169588
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,4.040970604179094
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,4.315866667504544
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,4.715801762533647
+Recipient,Samuel,Loper,200HarrisonStreet,SanFrancisco,CA,94112,US,SamuelVLoper@cuvox.de,415-582-5003,4.814704567213201
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,5.893874743017588
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,5.916401025754481
+Recipient,James,Davis,4409WolfPenRoad,SanFrancisco,CA,94107,US,JamesBDavis@fleckens.hu,650-392-2779,6.040786798257803
+Recipient,Karla,Isaac,2736BeechStreet,SanFrancisco,CA,94124,US,KarlaRIsaac@cuvox.de,925-800-2525,6.22205703952455
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,6.915275623632251
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,7.62139888025886
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,7.848374582445988
+Recipient,Barbara,Corso,4719RooseveltStreet,SanFrancisco,CA,94108,US,BarbaraRCorso@rhyta.com,415-403-5561,8.07651317174063
+Recipient,Colby,Nino,4510DelawareAvenue,SanFrancisco,CA,94104,US,ColbyGNino@gustr.com,415-276-7568,9.218545117223224
+Recipient,Joseph,Murdock,2629JimRosaLane,SanFrancisco,CA,94103,US,JosephIMurdock@armyspy.com,415-865-8366,9.328665609916351

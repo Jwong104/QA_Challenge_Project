@@ -2,8 +2,6 @@ package com.company.Matches;
 
 import com.company.Customer;
 import com.company.DistanceCalculator.DistanceCalculator;
-import com.company.DistanceCalculator.GMapCalculator;
-import com.company.DistanceCalculator.LatLongCalculator;
 import com.company.Recipient;
 
 import java.util.ArrayList;
@@ -65,9 +63,9 @@ public class Matches {
     public static boolean timeMatch(int[] pickup_Time, int dropoff_Times, int driving_Time) {
 
         // pickup_Time[0], pickup_Time[1] are the hours and minutes of the
-        // earliest_Time available for pickup
+        // earliest_Time available for pickup (mod 24 so that 24:00 is 00:00)
         // while the dropoff_Hour is one hour added to it
-        int earliest_Time = pickup_Time[0];
+        int earliest_Time = pickup_Time[0] % 24;
         int dropoff_Hour = 1;
 
         //Minutes and driving time are accounted into the dropoff_Hour
@@ -83,7 +81,6 @@ public class Matches {
         //Calculating index of bit comparison, if the pickup time is less than index 0
         //then default value will be 0
         int pickup_Index = (earliest_Time - 8);
-        if(pickup_Index < 0){ pickup_Index = 0; }
         int dropoff_Index = (dropoff_Hour - 8);
 
         //Padding zeros into integer binary string conversion
@@ -112,21 +109,17 @@ public class Matches {
      * @param recipients_list The list of participating recipients accepting food
      * @return A list of all the matches found, unsorted.
      */
-    public static List<Recipient> findMatches(Customer customer, List<Recipient> recipients_list, int strategy) throws Exception {
+    public static List<Recipient> findMatches(Customer customer, List<Recipient> recipients_list, DistanceCalculator calculator) throws Exception {
 
-        //The List of matches to return and the DistanceCalculator for distance away
+        //The List of matches to return and the DistanceCalculatorStrategy for distance away
         List<Recipient> matches = new ArrayList<>();
-        DistanceCalculator distanceCalculator;
         double[] distNDriveTime;
-
-        if(strategy == 0) { distanceCalculator = new LatLongCalculator(); }
-        else{ distanceCalculator = new GMapCalculator(); }
 
         //For each recipient in the list, check if the customer's items can be delivered to them
         for (Recipient recipient : recipients_list) {
 
             //Check distance between the customer and recipient is less than 10 miles
-            distNDriveTime = distanceCalculator.calc(customer.getLatitude(), customer.getLongitude(),
+            distNDriveTime = calculator.calc(customer.getLatitude(), customer.getLongitude(),
                     recipient.getLatitude(), recipient.getLongitude());
 
             if ( distNDriveTime != null && distNDriveTime[0] <= MAXDISTANCE ) {

@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Marcella,Graham,1172 Water Street,San Francisco,CA,94107,US,MarcellaGGraham@rhyta.com,925-282-5536,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,3.122150027714985
+Recipient,Manuela,Forster,1128WolfPenRoad,SanFrancisco,CA,94107,US,ManuelaDForster@jourrapide.com,650-362-9859,3.3775019851967834
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,3.8657420755465903
+Recipient,Edmund,Garcia,1305RardinDrive,SanFrancisco,CA,94143,US,EdmundHGarcia@fleckens.hu,650-690-8484,4.667889218740919
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,7.378114160305674
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,8.356711866238701
+Recipient,Stacey,Sutton,4701DavisAvenue,SanFrancisco,CA,94103,US,StaceyMSutton@gustr.com,707-667-5226,9.07036379877711
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,9.205899663673616
+Recipient,Brian,Manchester,473DuckCreekRoad,SanFrancisco,CA,94107,US,BrianMManchester@dayrep.com,650-749-1367,9.444520688444229

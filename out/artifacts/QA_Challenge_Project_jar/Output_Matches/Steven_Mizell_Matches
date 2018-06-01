@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Steven,Mizell,4847 Boring Lane,San Francisco,CA,94103,US,StevenBMizell@teleworm.us,415-626-7260,0
+Recipient,Gertrude,Duprey,3391LindaleAvenue,SanFrancisco,CA,94107,US,GertrudeLDuprey@superrito.com,510-542-0544,3.09808087480886
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,4.614452079515789
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.0242999729320195
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,8.029663941109085
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,9.056631745564264

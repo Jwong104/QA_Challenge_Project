@@ -33,7 +33,8 @@ public class CSVMaker {
     public void makeCSVFile(String fileName, Customer customer, List<Recipient> matches) {
 
         //Location of where files will be written to
-        File file = new File("out/production/QA_Challenge_Project/com/company/Output_Matches/"+fileName);
+        new File("Output_Matches").mkdirs();
+        File file = new File("Output_Matches/"+fileName);
         FileWriter fileWriter = null;
 
         try {

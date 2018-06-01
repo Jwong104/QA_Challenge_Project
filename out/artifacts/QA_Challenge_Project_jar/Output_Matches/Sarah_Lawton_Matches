@@ -1,0 +1,14 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Sarah,Lawton,4629 Jim Rosa Lane,San Francisco,CA,94112,US,SarahBLawton@rhyta.com,415-841-5612,0
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,2.396085369769345
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,3.0698446838402034
+Recipient,Janet,Hardison,1235RooseveltStreet,SanFrancisco,CA,94103,US,JanetDHardison@einrot.com,415-462-8764,3.9149685831005514
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,4.354958109072224
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,4.839278990990804
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,5.170052607049826
+Recipient,Carol,Davis,2832PrettyViewLane,SanFrancisco,CA,94103,US,CarolJDavis@superrito.com,707-885-2806,5.951471926973313
+Recipient,Kathryn,McDuffie,2231ThunderRoad,SanFrancisco,CA,94104,US,KathrynJMcDuffie@superrito.com,650-581-3448,6.696207349733929
+Recipient,Melodie,Upson,204LindaleAvenue,SanFrancisco,CA,94105,US,MelodieDUpson@jourrapide.com,510-485-8547,7.720323854056089
+Recipient,Stacey,Sutton,4701DavisAvenue,SanFrancisco,CA,94103,US,StaceyMSutton@gustr.com,707-667-5226,7.9969003037250594
+Recipient,Gertrude,Duprey,3391LindaleAvenue,SanFrancisco,CA,94107,US,GertrudeLDuprey@superrito.com,510-542-0544,8.623190382640086
+Recipient,Charles,Johnson,1080HillviewDrive,SanFrancisco,CA,94103,US,CharlesPJohnson@dayrep.com,707-221-7928,9.302753892064679

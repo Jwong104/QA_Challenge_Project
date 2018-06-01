@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Frank,Smith,2303 Duck Creek Road,San Francisco,CA,94104,US,FrankJSmith@einrot.com,650-801-4685,0
+Recipient,Cory,Ross,4150LocustViewDrive,SanFrancisco,CA,94108,US,CoryTRoss@fleckens.hu,415-984-7662,2.244954822081527
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,2.299367049020181
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,4.471864636703552
+Recipient,Ira,Maxwell,1909WolfPenRoad,SanFrancisco,CA,94107,US,IraIMaxwell@cuvox.de,650-403-6015,5.171967092120808
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.881533109603313

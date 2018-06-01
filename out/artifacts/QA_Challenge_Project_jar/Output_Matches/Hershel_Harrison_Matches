@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Hershel,Harrison,2691 Wolf Pen Road,San Francisco,CA,94107,US,HershelPHarrison@dayrep.com,650-393-5952,0
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,5.585040720257417
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.7605055658348014
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,6.051825878567675
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,6.238097501188597
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,6.922001470616251

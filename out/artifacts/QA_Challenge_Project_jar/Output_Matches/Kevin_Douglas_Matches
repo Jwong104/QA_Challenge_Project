@@ -1,0 +1,10 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Kevin,Douglas,4714 Rardin Drive,San Francisco,CA,94107,US,KevinMDouglas@cuvox.de,650-636-5307,0
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,0.18945576099692066
+Recipient,Maria,Lee,625MariettaStreet,SanFrancisco,CA,94103,US,MariaJLee@jourrapide.com,707-598-0429,1.1368226055307833
+Recipient,Carol,Davis,2832PrettyViewLane,SanFrancisco,CA,94103,US,CarolJDavis@superrito.com,707-885-2806,3.199446681496527
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,3.4388879375588046
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,3.9673248928798173
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,4.210720962605552
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.129003163301943
+Recipient,Janet,Hardison,1235RooseveltStreet,SanFrancisco,CA,94103,US,JanetDHardison@einrot.com,415-462-8764,7.3447892754679565

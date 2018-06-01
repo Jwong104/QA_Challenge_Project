@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Leticia,Barnett,4526 Harrison Street,San Francisco,CA,94107,US,LeticiaDBarnett@jourrapide.com,415-496-1769,0
+Recipient,Sharon,Ashley,1482RardinDrive,SanFrancisco,CA,94107,US,SharonWAshley@rhyta.com,650-648-3736,1.74991712107397
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,4.514571804684916
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,5.508935220268017
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,7.326316334429181
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,8.709714897720083

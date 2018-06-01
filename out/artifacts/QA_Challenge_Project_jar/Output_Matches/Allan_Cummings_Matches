@@ -1,0 +1,23 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Allan,Cummings,366 Jim Rosa Lane,San Francisco,CA,94143,US,AllanKCummings@rhyta.com,415-778-5222,0
+Recipient,Glen,Parr,4126LarryStreet,SanFrancisco,CA,94124,US,GlenDParr@jourrapide.com,415-200-4930,2.4673711060971306
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,2.8720448421868707
+Recipient,Nancy,Evans,1474LocustViewDrive,SanFrancisco,CA,94108,US,NancyREvans@einrot.com,415-986-6693,4.567825627222879
+Recipient,Eric,Torres,347JimRosaLane,SanFrancisco,CA,94108,US,EricATorres@teleworm.us,415-774-8659,5.131862382527502
+Recipient,Charles,Johnson,1080HillviewDrive,SanFrancisco,CA,94103,US,CharlesPJohnson@dayrep.com,707-221-7928,5.439397873083224
+Recipient,Carol,Davis,2832PrettyViewLane,SanFrancisco,CA,94103,US,CarolJDavis@superrito.com,707-885-2806,5.4527289918876045
+Recipient,Joshua,Novick,3869WaysideLane,SanFrancisco,CA,94108,US,JoshuaSNovick@gustr.com,510-303-7800,5.719457738123347
+Recipient,Edmund,Garcia,1305RardinDrive,SanFrancisco,CA,94143,US,EdmundHGarcia@fleckens.hu,650-690-8484,5.887851243432396
+Recipient,Dorothy,Dowdy,727BoringLane,SanFrancisco,CA,94103,US,DorothyKDowdy@rhyta.com,415-703-7778,5.905676824539137
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,6.190991532489533
+Recipient,William,Fennell,2621JimRosaLane,SanFrancisco,CA,94110,US,WilliamFFennell@armyspy.com,415-824-8512,6.796907519974748
+Recipient,Loren,May,842SycamoreStreet,SanFrancisco,CA,94107,US,LorenJMay@armyspy.com,408-849-9471,6.962661128468871
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,7.758455769901704
+Recipient,Kenneth,Aguilar,7LocustViewDrive,SanFrancisco,CA,94108,US,KennethPAguilar@rhyta.com,415-994-1972,7.7639445170257195
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,8.04098096531512
+Recipient,Karla,Isaac,2736BeechStreet,SanFrancisco,CA,94124,US,KarlaRIsaac@cuvox.de,925-800-2525,8.05814082806953
+Recipient,Ronald,Kennedy,4343RardinDrive,SanFrancisco,CA,94107,US,RonaldDKennedy@armyspy.com,650-648-9299,8.228457296894167
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,8.356751239880063
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,9.036379720555825
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,9.493637652857275
+Recipient,Sharon,Ashley,1482RardinDrive,SanFrancisco,CA,94107,US,SharonWAshley@rhyta.com,650-648-3736,9.857461112353624

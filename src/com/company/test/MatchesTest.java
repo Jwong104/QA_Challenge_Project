@@ -2,17 +2,14 @@ package com.company.test;
 
 import com.company.Customer;
 import com.company.Recipient;
-import org.junit.Assert;
 import org.junit.Test;
 
 import static com.company.Matches.Matches.donationMatch;
 import static com.company.Matches.Matches.timeMatch;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 public class MatchesTest {
-
-    private static Recipient testRecipient = new Recipient();
-    private static Customer testCustomer = new Customer();
 
     //
     // Test cases for donationMatch() functions
@@ -26,6 +23,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchCustBit0(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("0");
         testRecipient.setRestrictions("63");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -40,6 +39,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchCustBit1(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("16");
         testRecipient.setRestrictions("47");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -54,6 +55,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchCustBit2(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("8");
         testRecipient.setRestrictions("55");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -68,6 +71,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchCustBit3(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("4");
         testRecipient.setRestrictions("59");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -82,6 +87,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchCustBit4(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("2");
         testRecipient.setRestrictions("61");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -96,6 +103,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchCustBit5(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("1");
         testRecipient.setRestrictions("62");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -110,6 +119,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecBit0(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("63");
         testRecipient.setRestrictions("0");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -124,6 +135,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecBit1(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("47");
         testRecipient.setRestrictions("16");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -138,6 +151,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecBit2(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("55");
         testRecipient.setRestrictions("8");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -152,6 +167,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecBit3(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("59");
         testRecipient.setRestrictions("4");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -166,6 +183,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecBit4(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("61");
         testRecipient.setRestrictions("2");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -180,6 +199,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecBit5(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("1");
         testRecipient.setRestrictions("62");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));
@@ -194,6 +215,8 @@ public class MatchesTest {
      */
     @Test
     public void testDonationMatchRecForScale(){
+        Recipient testRecipient = new Recipient();
+        Customer testCustomer = new Customer();
         testCustomer.setCategories("255");
         testRecipient.setRestrictions("0");
         assertTrue(donationMatch(testCustomer.getCategories(), testRecipient.getRestrictions()));

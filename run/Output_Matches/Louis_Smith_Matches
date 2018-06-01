@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Louis,Smith,4425 Locust View Drive,San Francisco,CA,94143,US,LouisKSmith@gustr.com,415-978-4582,0
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,6.1868985759955075

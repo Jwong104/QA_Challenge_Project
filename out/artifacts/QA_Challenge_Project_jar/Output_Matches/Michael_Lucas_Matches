@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Michael,Lucas,4957 Delaware Avenue,San Francisco,CA,94107,US,MichaelSLucas@gustr.com,415-275-2388,0
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,1.9386123803191422

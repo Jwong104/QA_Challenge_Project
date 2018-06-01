@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Samantha,Blum,4014 Jim Rosa Lane,San Francisco,CA,94110,US,SamanthaDBlum@superrito.com,415-821-3594,0
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,1.6402951192149589
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,8.943985262246912
+Recipient,Aaron,Jones,2480HarrisonStreet,SanFrancisco,CA,94107,US,AaronCJones@gustr.com,415-483-0135,9.126764098465708

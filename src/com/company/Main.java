@@ -1,7 +1,13 @@
 package com.company;
 
 import com.company.CSV.CSVHelper;
-import java.util.*;
+import com.company.DistanceCalculator.DistanceCalculator;
+import com.company.DistanceCalculator.GMapCalculatorStrategyStrategy;
+import com.company.DistanceCalculator.LatLongCalculatorStrategyStategy;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 import static com.company.Matches.Matches.findMatches;
 import static com.company.Matches.Matches.sortMatches;
@@ -13,8 +19,8 @@ public class Main {
      * CUST_PATH:  Customer CSV filename path
      * REC_PATH: Recipient CSV filename path
      */
-    private static final String CUST_PATH = "out/production/QA_Challenge_Project/com/company/Customers.csv";
-    private static final String REC_PATH = "out/production/QA_Challenge_Project/com/company/Recipients.csv";
+    private static final String CUST_PATH = "Customers.csv";
+    private static final String REC_PATH = "Recipients.csv";
 
 
     /**
@@ -67,16 +73,22 @@ public class Main {
         System.out.println("By Map Coordinate System (0), or Google Map driving system (1)?");
         strategy = userChoice(navigator);
         System.out.println("Give me a few quantums while I create your matches now! ");
+        navigator.close();
+
+        DistanceCalculator calculator;
+        if(strategy == 0) { calculator = new DistanceCalculator(new LatLongCalculatorStrategyStategy()); }
+        else{ calculator = new DistanceCalculator(new GMapCalculatorStrategyStrategy());}
 
         //Create and output matches into new CSV Files
         for (Customer customer : customers) {
-            matches = findMatches(customer, recipients, strategy);
+            matches = findMatches(customer, recipients, calculator);
             matches = sortMatches(matches);
             csvHelper.outputMatchRecipients(customer, matches);
         }
 
-        System.out.println("Done! Files will be located here: " +
-                "out/production/QA_Challenge_Project/com/company/Output_Matches");
+        System.out.println("Done!");
+
+
 
     }
 

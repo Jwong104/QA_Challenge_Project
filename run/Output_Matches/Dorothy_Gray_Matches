@@ -1,0 +1,14 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Dorothy,Gray,1164 Cemetery Street,San Francisco,CA,94108,US,DorothyJGray@dayrep.com,831-840-4093,0
+Recipient,Scott,Madrid,647DelawareAvenue,SanFrancisco,CA,94115,US,ScottSMadrid@cuvox.de,415-346-6478,0.8592987879811987
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,1.1114800519832932
+Recipient,Brian,Dock,4211ThunderRoad,SanFrancisco,CA,94108,US,BrianCDock@gustr.com,650-575-1177,1.6013786415255964
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,3.559837335048314
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,4.439604440632143
+Recipient,Donna,Clark,1656EllaStreet,SanFrancisco,CA,94107,US,DonnaTClark@gustr.com,650-276-8952,5.7891145417819665
+Recipient,Betty,Boatner,1751LocustViewDrive,SanFrancisco,CA,94118,US,BettyJBoatner@gustr.com,415-933-0390,6.618400040480666
+Recipient,Arturo,Harman,3266HarrisonStreet,SanFrancisco,CA,94115,US,ArturoTHarman@einrot.com,415-563-0322,6.646396172870968
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,8.37388901583877
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,8.456213586492629
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,8.961131492944384
+Recipient,Susan,Carlos,2529JimRosaLane,SanFrancisco,CA,94107,US,SusanDCarlos@dayrep.com,415-862-9893,9.84006148239515

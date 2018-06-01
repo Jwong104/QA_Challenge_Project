@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ignacio,Rigdon,2242 Wolf Pen Road,San Francisco,CA,94107,US,IgnacioWRigdon@einrot.com,650-391-4816,0
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,3.720224849848814
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,4.935732361270435
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,6.0810123531861295
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,6.9731531363608354
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,7.030609138465392
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,8.211094685180774
+Recipient,Wanda,Sawyer,702RooseveltStreet,SanFrancisco,CA,94108,US,WandaESawyer@teleworm.us,415-403-5569,8.218655268199567

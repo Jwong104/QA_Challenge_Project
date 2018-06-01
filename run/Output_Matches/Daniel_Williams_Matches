@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Daniel,Williams,1494 Delaware Avenue,San Francisco,CA,94124,US,DanielAWilliams@cuvox.de,415-330-4421,0
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.09285211852928

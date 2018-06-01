@@ -1,0 +1,13 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Dennis,Ramos,1231 Boring Lane,San Francisco,CA,94108,US,DennisTRamos@fleckens.hu,415-705-3377,0
+Recipient,Harriet,Patel,3664RooseveltStreet,SanFrancisco,CA,94108,US,HarrietJPatel@armyspy.com,415-393-0301,1.6310981160576787
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,2.032156011729098
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,3.8779237735637904
+Recipient,Gerald,White,4265BoringLane,SanFrancisco,CA,94110,US,GeraldMWhite@cuvox.de,415-641-0697,3.9959630469658483
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,4.656032402361327
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,5.283157145958701
+Recipient,Jason,Cook,945JimRosaLane,SanFrancisco,CA,94108,US,JasonOCook@cuvox.de,415-834-3714,5.536419875666256
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,6.111626357324421
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,7.545143392498435
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,8.254296961967317
+Recipient,Margaret,Danis,492HarrisonStreet,SanFrancisco,CA,94107,US,MargaretRDanis@cuvox.de,415-515-0161,9.86086523750244

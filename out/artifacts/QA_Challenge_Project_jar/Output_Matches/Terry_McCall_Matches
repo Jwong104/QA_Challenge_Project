@@ -1,0 +1,19 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Terry,McCall,2696 Harrison Street,San Francisco,CA,94143,US,TerryAMcCall@dayrep.com,415-478-2303,0
+Recipient,Donna,Michalak,221ThompsonDrive,SanFrancisco,CA,94108,US,DonnaLMichalak@cuvox.de,510-387-6452,3.193769577024808
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,3.361876033063463
+Recipient,Ira,Maxwell,1909WolfPenRoad,SanFrancisco,CA,94107,US,IraIMaxwell@cuvox.de,650-403-6015,4.190295175634648
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,4.387400201123921
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,4.723532049148578
+Recipient,Cory,Ross,4150LocustViewDrive,SanFrancisco,CA,94108,US,CoryTRoss@fleckens.hu,415-984-7662,4.730828829270094
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,4.7636001658696525
+Recipient,Frank,Barcenas,3174JimRosaLane,SanFrancisco,CA,94110,US,FrankGBarcenas@superrito.com,415-821-7149,5.217337587755475
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,5.884380086472809
+Recipient,Palmer,Morales,1769WolfPenRoad,SanFrancisco,CA,94143,US,PalmerAMorales@teleworm.us,650-452-1546,6.10019143830186
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,6.30285450678585
+Recipient,Samuel,Loper,200HarrisonStreet,SanFrancisco,CA,94112,US,SamuelVLoper@cuvox.de,415-582-5003,6.951137557113395
+Recipient,Betty,Boatner,1751LocustViewDrive,SanFrancisco,CA,94118,US,BettyJBoatner@gustr.com,415-933-0390,7.684738906949017
+Recipient,Chester,Smart,1307CemeteryStreet,SanFrancisco,CA,94104,US,ChesterMSmart@teleworm.us,831-824-4746,8.560356993633034
+Recipient,Myra,Donohoe,2333RooseveltStreet,SanFrancisco,CA,94112,US,MyraJDonohoe@rhyta.com,415-405-2246,9.14722956425772
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,9.781656783207927
+Recipient,Glen,Parr,4126LarryStreet,SanFrancisco,CA,94124,US,GlenDParr@jourrapide.com,415-200-4930,9.900028512578936

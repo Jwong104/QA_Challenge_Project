@@ -1,0 +1,14 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Steven,Thompson,731 Park Street,San Francisco,CA,94107,US,StevenJThompson@cuvox.de,925-374-4005,0
+Recipient,Malka,Weathersby,41JimRosaLane,SanFrancisco,CA,94108,US,MalkaDWeathersby@einrot.com,415-781-7825,1.6028537719523586
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,3.3816235605216893
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,3.512665008999812
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,3.546207408560162
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,3.903278461868701
+Recipient,Tanya,Wolff,4629WaterStreet,SanFrancisco,CA,94103,US,TanyaAWolff@cuvox.de,925-270-7562,4.173654992362318
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,5.539280903578086
+Recipient,Aaron,Jones,2480HarrisonStreet,SanFrancisco,CA,94107,US,AaronCJones@gustr.com,415-483-0135,6.3061331321700065
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,6.335957538724503
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,6.793544032813825
+Recipient,Harriet,Patel,3664RooseveltStreet,SanFrancisco,CA,94108,US,HarrietJPatel@armyspy.com,415-393-0301,7.210873028068821
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,7.346944371471881

@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Patricia,Reich,2170 Locust View Drive,San Francisco,CA,94115,US,PatriciaAReich@armyspy.com,415-921-5623,0
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,0.7067123859769688
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,1.6291463301647633
+Recipient,Jackson,McBride,2592JimRosaLane,SanFrancisco,CA,94108,US,JacksonSMcBride@fleckens.hu,415-788-7377,4.176835297167291
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,4.648412421800139
+Recipient,Cory,Ross,4150LocustViewDrive,SanFrancisco,CA,94108,US,CoryTRoss@fleckens.hu,415-984-7662,4.955791595926652
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,6.115967611997505
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,6.164646920228233
+Recipient,Joseph,Murdock,2629JimRosaLane,SanFrancisco,CA,94103,US,JosephIMurdock@armyspy.com,415-865-8366,6.392606904273744
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,7.8376036390748585

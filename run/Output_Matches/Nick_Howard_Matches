@@ -1,0 +1,13 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Nick,Howard,3952 Delaware Avenue,San Francisco,CA,94104,US,NickSHoward@gustr.com,415-236-3552,0
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,1.5691759604085669
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,1.6812142064764206
+Recipient,Hazel,Pledger,4533HillviewDrive,SanFrancisco,CA,94103,US,HazelBPledger@armyspy.com,707-216-2050,1.7221480935876288
+Recipient,Dorothy,Dowdy,727BoringLane,SanFrancisco,CA,94103,US,DorothyKDowdy@rhyta.com,415-703-7778,1.808143090793287
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,3.1363329535888265
+Recipient,Myra,Donohoe,2333RooseveltStreet,SanFrancisco,CA,94112,US,MyraJDonohoe@rhyta.com,415-405-2246,6.101180277931124
+Recipient,Nancy,Evans,1474LocustViewDrive,SanFrancisco,CA,94108,US,NancyREvans@einrot.com,415-986-6693,6.198594680069458
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,6.550367437128268
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,6.837451606617055
+Recipient,Steven,Sevilla,4642StationStreet,SanFrancisco,CA,94104,US,StevenSSevilla@jourrapide.com,510-921-4898,7.128458101187043
+Recipient,Marcie,Pennington,452DuckCreekRoad,SanFrancisco,CA,94105,US,MarcieTPennington@dayrep.com,650-763-7754,9.174076830159887

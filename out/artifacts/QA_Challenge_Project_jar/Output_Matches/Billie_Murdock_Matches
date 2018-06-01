@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Billie,Murdock,4232 Harrison Street,San Francisco,CA,94107,US,BillieMMurdock@superrito.com,415-517-8165,0
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,5.127854588263338
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,5.575173105579739
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,6.671764278892516
+Recipient,Linda,Brown,2870HaulRoad,SanFrancisco,CA,94143,US,LindaEBrown@superrito.com,650-999-3353,7.239184553985502
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,9.919112643233717

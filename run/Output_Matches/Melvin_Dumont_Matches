@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Melvin,Dumont,3156 Rardin Drive,San Francisco,CA,94107,US,MelvinJDumont@teleworm.us,650-628-3063,0
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,2.0677850698449523
+Recipient,Saundra,Turner,4592WolfPenRoad,SanFrancisco,CA,94107,US,SaundraKTurner@rhyta.com,650-400-4902,4.2495876315165635
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,4.391291880016962

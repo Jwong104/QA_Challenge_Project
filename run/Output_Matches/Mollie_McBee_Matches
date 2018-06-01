@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Mollie,McBee,1998 Harrison Street,San Francisco,CA,94103,US,MollieWMcBee@rhyta.com,415-487-3386,0
+Recipient,Nancy,Evans,1474LocustViewDrive,SanFrancisco,CA,94108,US,NancyREvans@einrot.com,415-986-6693,3.7791165416446098
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,4.295219089180457
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,4.73253781887751

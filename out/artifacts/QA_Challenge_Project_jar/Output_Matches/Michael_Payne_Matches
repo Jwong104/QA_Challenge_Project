@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Michael,Payne,4760 Boring Lane,San Francisco,CA,94122,US,MichaelSPayne@teleworm.us,415-682-7315,0
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,4.344950480221014
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,6.530835397910673
+Recipient,Hazel,Pledger,4533HillviewDrive,SanFrancisco,CA,94103,US,HazelBPledger@armyspy.com,707-216-2050,7.393963184159236
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,7.599917266961165
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,8.074051006592486
+Recipient,Dominique,Perry,1583DelawareAvenue,SanFrancisco,CA,94104,US,DominiqueMPerry@gustr.com,415-276-2823,8.254443515305695

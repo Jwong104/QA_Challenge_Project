@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Robert,Kist,3366 Larry Street,San Francisco,CA,94107,US,RobertJKist@superrito.com,415-228-8458,0
+Recipient,Eric,Torres,347JimRosaLane,SanFrancisco,CA,94108,US,EricATorres@teleworm.us,415-774-8659,3.3369150987267187
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,3.5685219191634405
+Recipient,Terese,Wilkins,2492ForestAvenue,SanFrancisco,CA,94143,US,TereseAWilkins@superrito.com,650-202-7617,4.678849877991494
+Recipient,Kenneth,Aguilar,7LocustViewDrive,SanFrancisco,CA,94108,US,KennethPAguilar@rhyta.com,415-994-1972,5.126289969011454
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,5.936741383524033
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,7.573036670491982
+Recipient,Charles,Wilson,255DavisAvenue,SanFrancisco,CA,94107,US,CharlesMWilson@cuvox.de,707-759-0206,8.25582210078557

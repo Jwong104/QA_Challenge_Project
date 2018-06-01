@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,John,Jimenez,4449 Roosevelt Street,San Francisco,CA,94107,US,JohnAJimenez@fleckens.hu,415-360-3483,0
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,2.009196050287331
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,3.3354705523515005
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,3.5095819856184023
+Recipient,Cory,Ross,4150LocustViewDrive,SanFrancisco,CA,94108,US,CoryTRoss@fleckens.hu,415-984-7662,3.681505914028669
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,4.275614226502326
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,6.093393870203598
+Recipient,Ira,Maxwell,1909WolfPenRoad,SanFrancisco,CA,94107,US,IraIMaxwell@cuvox.de,650-403-6015,7.0086661363872835

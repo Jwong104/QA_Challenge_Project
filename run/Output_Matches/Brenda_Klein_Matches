@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Brenda,Klein,2067 Rardin Drive,San Francisco,CA,94107,US,BrendaJKlein@dayrep.com,650-678-2950,0
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,3.507173666842253
+Recipient,Janet,Hardison,1235RooseveltStreet,SanFrancisco,CA,94103,US,JanetDHardison@einrot.com,415-462-8764,4.243300533531225
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,6.018709288566065
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,7.483776561858514
+Recipient,Edmund,Garcia,1305RardinDrive,SanFrancisco,CA,94143,US,EdmundHGarcia@fleckens.hu,650-690-8484,8.013677567680952
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,9.455858782995833

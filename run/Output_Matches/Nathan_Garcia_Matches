@@ -1,0 +1,17 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Nathan,Garcia,1257 Delaware Avenue,San Francisco,CA,94143,US,NathanEGarcia@dayrep.com,415-278-5528,0
+Recipient,Frank,Barcenas,3174JimRosaLane,SanFrancisco,CA,94110,US,FrankGBarcenas@superrito.com,415-821-7149,1.2673058704334736
+Recipient,Travis,Tiller,1778HarrisonStreet,SanFrancisco,CA,94122,US,TravisETiller@gustr.com,415-504-1194,2.3351593834635467
+Recipient,Palmer,Morales,1769WolfPenRoad,SanFrancisco,CA,94143,US,PalmerAMorales@teleworm.us,650-452-1546,4.105808520833002
+Recipient,Chester,Smart,1307CemeteryStreet,SanFrancisco,CA,94104,US,ChesterMSmart@teleworm.us,831-824-4746,4.919806836465048
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,5.294957052362479
+Recipient,Nereida,Seely,4822RardinDrive,SanFrancisco,CA,94124,US,NereidaRSeely@gustr.com,650-732-1251,5.376911096332894
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,6.210148536881602
+Recipient,Michael,Carter,1591DelawareAvenue,SanFrancisco,CA,94107,US,MichaelDCarter@gustr.com,415-308-3956,6.569132057692384
+Recipient,Helen,Nabors,4500JimRosaLane,SanFrancisco,CA,94108,US,HelenDNabors@einrot.com,415-839-9840,7.387157309263973
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,8.225587301754636
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,9.137306135558866
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,9.388709042373621
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,9.403773415567017
+Recipient,David,Farnsworth,3824RoseStreet,SanFrancisco,CA,94103,US,DavidLFarnsworth@cuvox.de,707-988-1568,9.454856619462111
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,9.715993217427158

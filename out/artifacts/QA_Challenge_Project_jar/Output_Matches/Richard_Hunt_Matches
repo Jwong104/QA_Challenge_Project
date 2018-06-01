@@ -1,0 +1,17 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Richard,Hunt,3065 Driftwood Road,San Francisco,CA,94107,US,RichardMHunt@einrot.com,408-340-8693,0
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,1.9083311279593524
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,2.9876884788826246
+Recipient,Joseph,Murdock,2629JimRosaLane,SanFrancisco,CA,94103,US,JosephIMurdock@armyspy.com,415-865-8366,4.389504084809441
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,4.444000976872896
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,4.530993175491556
+Recipient,Saundra,Turner,4592WolfPenRoad,SanFrancisco,CA,94107,US,SaundraKTurner@rhyta.com,650-400-4902,5.62674328746086
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,5.680060255937693
+Recipient,Dorothy,Dowdy,727BoringLane,SanFrancisco,CA,94103,US,DorothyKDowdy@rhyta.com,415-703-7778,6.286857640085605
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,6.587648339585696
+Recipient,Cory,Ross,4150LocustViewDrive,SanFrancisco,CA,94108,US,CoryTRoss@fleckens.hu,415-984-7662,6.943723685657781
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,7.061267389149205
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,8.010973960876601
+Recipient,Barbara,Corso,4719RooseveltStreet,SanFrancisco,CA,94108,US,BarbaraRCorso@rhyta.com,415-403-5561,8.163404978016853
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,9.319908753759956
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,9.882804428579668

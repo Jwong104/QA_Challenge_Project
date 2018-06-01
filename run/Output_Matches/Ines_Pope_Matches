@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ines,Pope,2967 Harrison Street,San Francisco,CA,94103,US,InesKPope@rhyta.com,415-556-1539,0
+Recipient,Melodie,Upson,204LindaleAvenue,SanFrancisco,CA,94105,US,MelodieDUpson@jourrapide.com,510-485-8547,2.019563540645514
+Recipient,Stacey,Sutton,4701DavisAvenue,SanFrancisco,CA,94103,US,StaceyMSutton@gustr.com,707-667-5226,2.807560053112351
+Recipient,Loren,May,842SycamoreStreet,SanFrancisco,CA,94107,US,LorenJMay@armyspy.com,408-849-9471,5.325944533111002
+Recipient,Vincent,Byrne,1114CemeteryStreet,SanFrancisco,CA,94107,US,VincentJByrne@armyspy.com,831-706-3222,5.556626395870563
+Recipient,Carol,Davis,2832PrettyViewLane,SanFrancisco,CA,94103,US,CarolJDavis@superrito.com,707-885-2806,6.154957249042055
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,6.983702804766193
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,8.180718584085898
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,9.527303302267535
+Recipient,Roger,Stewart,437LocustViewDrive,SanFrancisco,CA,94143,US,RogerSStewart@superrito.com,415-894-9159,9.593228506339003

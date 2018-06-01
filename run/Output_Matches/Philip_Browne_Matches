@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Philip,Browne,2428 Duck Creek Road,San Francisco,CA,94104,US,PhilipJBrowne@einrot.com,650-748-7682,0
+Recipient,Colby,Nino,4510DelawareAvenue,SanFrancisco,CA,94104,US,ColbyGNino@gustr.com,415-276-7568,1.527219345522489
+Recipient,Nereida,Seely,4822RardinDrive,SanFrancisco,CA,94124,US,NereidaRSeely@gustr.com,650-732-1251,4.132153205958757
+Recipient,Michael,Carter,1591DelawareAvenue,SanFrancisco,CA,94107,US,MichaelDCarter@gustr.com,415-308-3956,4.549201321208659
+Recipient,Leroy,Davis,3328JimRosaLane,SanFrancisco,CA,94143,US,LeroyCDavis@superrito.com,415-836-6094,6.750864138441905
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,8.837794319136446
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,8.907231514080035

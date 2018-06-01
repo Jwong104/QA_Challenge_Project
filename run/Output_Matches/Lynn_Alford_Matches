@@ -1,0 +1,11 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Lynn,Alford,2013 Park Street,San Francisco,CA,94104,US,LynnEAlford@cuvox.de,925-399-9829,0
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,2.6608852418767097
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,4.530319850610586
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.748163222592861
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,6.596654050232226
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,7.268597393767075
+Recipient,Treva,Bryant,2767BlackOakHollowRoad,SanFrancisco,CA,94107,US,TrevaDBryant@jourrapide.com,408-702-0972,8.175534072559623
+Recipient,Linda,Brown,2870HaulRoad,SanFrancisco,CA,94143,US,LindaEBrown@superrito.com,650-999-3353,8.349518290319802
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,8.34899346134385
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,9.745219405496819

@@ -1,0 +1,10 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Charlie,Jones,4039 Black Oak Hollow Road,San Francisco,CA,94107,US,CharlieTJones@gustr.com,408-717-4330,0
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,2.8096816872341144
+Recipient,Nancy,Evans,1474LocustViewDrive,SanFrancisco,CA,94108,US,NancyREvans@einrot.com,415-986-6693,4.577628492037113
+Recipient,Loren,May,842SycamoreStreet,SanFrancisco,CA,94107,US,LorenJMay@armyspy.com,408-849-9471,5.541297159475021
+Recipient,Edmund,Garcia,1305RardinDrive,SanFrancisco,CA,94143,US,EdmundHGarcia@fleckens.hu,650-690-8484,5.580090268847631
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,6.713863277448046
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,8.327482628594135
+Recipient,Marta,Beavers,3169RooseveltStreet,SanFrancisco,CA,94112,US,MartaRBeavers@rhyta.com,415-404-9268,8.969293764184426
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,9.42719212089512

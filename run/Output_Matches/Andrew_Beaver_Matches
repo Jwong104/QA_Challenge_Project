@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Andrew,Beaver,4562 Beech Street,San Francisco,CA,94107,US,AndrewJBeaver@gustr.com,925-738-4755,0
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,3.6676651126627977
+Recipient,Arturo,Harman,3266HarrisonStreet,SanFrancisco,CA,94115,US,ArturoTHarman@einrot.com,415-563-0322,4.172759481813893
+Recipient,Jeffrey,Vuong,1481BoringLane,SanFrancisco,CA,94108,US,JeffreyKVuong@armyspy.com,415-733-2346,5.470182104814755
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,5.797586595182672
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,6.842803943576298
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,6.951138756966868
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,7.944782382581698
