@@ -1,0 +1,18 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Dallas,Pitcock,4773 Duck Creek Road,San Francisco,CA,94107,US,DallasVPitcock@gustr.com,650-793-9128,0
+Recipient,Jackson,McBride,2592JimRosaLane,SanFrancisco,CA,94108,US,JacksonSMcBride@fleckens.hu,415-788-7377,1.3803577260540718
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,1.4168522019241974
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,1.6444304118977402
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,1.7763541246824381
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,2.799969792864543
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,2.8461109880004196
+Recipient,Palmer,Morales,1769WolfPenRoad,SanFrancisco,CA,94143,US,PalmerAMorales@teleworm.us,650-452-1546,3.3324033674804054
+Recipient,Kristen,Brown,4125FriendshipLane,SanFrancisco,CA,94108,US,KristenMBrown@superrito.com,408-607-5735,4.148687316644105
+Recipient,Lucille,Gunn,2006RooseveltStreet,SanFrancisco,CA,94115,US,LucilleJGunn@superrito.com,415-409-4133,5.703876909486912
+Recipient,Aaron,Jones,2480HarrisonStreet,SanFrancisco,CA,94107,US,AaronCJones@gustr.com,415-483-0135,5.788895593236857
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,6.203634008951102
+Recipient,Daniel,Huffman,208RardinDrive,SanFrancisco,CA,94104,US,DanielAHuffman@rhyta.com,650-645-8239,6.230493467746102
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,6.622878444894423
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,6.868183214927219
+Recipient,Charles,Johnson,1080HillviewDrive,SanFrancisco,CA,94103,US,CharlesPJohnson@dayrep.com,707-221-7928,7.684742809230627
+Recipient,Brian,Dock,4211ThunderRoad,SanFrancisco,CA,94108,US,BrianCDock@gustr.com,650-575-1177,8.203015256436235

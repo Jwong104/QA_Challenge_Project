@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Marie,Wells,3571 Lindale Avenue,San Francisco,CA,94108,US,MariePWells@jourrapide.com,510-499-5232,0
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,2.207579299290916
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,2.604490756522455
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,3.7562843901844842

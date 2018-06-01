@@ -1,0 +1,10 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Donald,Nguyen,2122 Locust View Drive,San Francisco,CA,94143,US,DonaldMNguyen@jourrapide.com,415-979-6202,0
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,3.193979421335818
+Recipient,Maria,Allen,3820BoringLane,SanFrancisco,CA,94143,US,MariaRAllen@einrot.com,415-598-4572,4.218660026835451
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,4.396927976399003
+Recipient,Michael,Carter,1591DelawareAvenue,SanFrancisco,CA,94107,US,MichaelDCarter@gustr.com,415-308-3956,4.562623414453872
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,4.885482090432052
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,6.53546971079353
+Recipient,Tanya,Wolff,4629WaterStreet,SanFrancisco,CA,94103,US,TanyaAWolff@cuvox.de,925-270-7562,8.6981550026615
+Recipient,Sharon,Ashley,1482RardinDrive,SanFrancisco,CA,94107,US,SharonWAshley@rhyta.com,650-648-3736,8.713387504455893

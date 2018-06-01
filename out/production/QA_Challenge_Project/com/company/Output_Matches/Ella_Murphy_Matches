@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ella,Murphy,2536 Ella Street,San Francisco,CA,94107,US,EllaJMurphy@superrito.com,650-242-2856,0
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,3.090932810774145
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,3.5699567105801777
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,3.7889451849647635
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,4.68249714584111
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,5.6615373654698375
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,6.8617052471451405
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,9.42590990760679

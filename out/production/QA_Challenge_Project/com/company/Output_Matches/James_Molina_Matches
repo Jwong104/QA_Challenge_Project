@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,James,Molina,1572 Roosevelt Street,San Francisco,CA,94105,US,JamesKMolina@teleworm.us,415-408-6017,0
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,5.192537465529462
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,6.722532535990302

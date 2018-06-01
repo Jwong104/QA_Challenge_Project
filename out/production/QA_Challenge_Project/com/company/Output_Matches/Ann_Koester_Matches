@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ann,Koester,805 Jim Rosa Lane,San Francisco,CA,94143,US,AnnNKoester@einrot.com,415-817-3921,0
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,3.0901004700694807
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,7.046348554115812

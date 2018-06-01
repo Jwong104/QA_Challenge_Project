@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Tammy,Banfield,2367 Boring Lane,San Francisco,CA,94103,US,TammyJBanfield@jourrapide.com,415-723-8454,0
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,4.208405662080552
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,8.063382472937631

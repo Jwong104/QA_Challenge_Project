@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Joseph,Brown,4589 Meadow Lane,San Francisco,CA,94104,US,JosephLBrown@superrito.com,707-267-8353,0
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,5.661418158164326
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,6.285775563179243

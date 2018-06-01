@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Santos,Houchin,3573 Roosevelt Street,San Francisco,CA,94108,US,SantosGHouchin@gustr.com,415-364-1840,0
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,1.9246224466929032
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.5925118978800095
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,6.6472995878387255
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,7.739057954543092

@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Kimberly,Cole,4728 Pretty View Lane,San Francisco,CA,94104,US,KimberlyCCole@teleworm.us,707-901-6209,0
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,5.702494024197043
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,6.408878454900878
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,8.192547208283582
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,8.652740574493253

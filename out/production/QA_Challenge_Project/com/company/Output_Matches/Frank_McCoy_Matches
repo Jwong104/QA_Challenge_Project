@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Frank,McCoy,1251 Water Street,San Francisco,CA,94107,US,FrankMMcCoy@jourrapide.com,925-359-2949,0
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,3.331932648854713
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.042665348124692
+Recipient,Gertrude,Duprey,3391LindaleAvenue,SanFrancisco,CA,94107,US,GertrudeLDuprey@superrito.com,510-542-0544,6.498421311520594

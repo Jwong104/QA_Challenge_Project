@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Paul,Nelson,4421 Wolf Pen Road,San Francisco,CA,94107,US,PaulCNelson@fleckens.hu,650-426-6337,0
+Recipient,Sharon,Ashley,1482RardinDrive,SanFrancisco,CA,94107,US,SharonWAshley@rhyta.com,650-648-3736,6.238999773974099
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,7.002553148367042
+Recipient,Chester,Smart,1307CemeteryStreet,SanFrancisco,CA,94104,US,ChesterMSmart@teleworm.us,831-824-4746,7.811529359776755

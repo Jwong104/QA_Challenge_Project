@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Dawn,Russell,2879 Wayside Lane,San Francisco,CA,94108,US,DawnSRussell@superrito.com,510-333-0105,0
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,0.6093393091628712
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,1.968784840591102
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,7.3557712067518795

@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Pamela,Howard,3840 Black Oak Hollow Road,San Francisco,CA,94104,US,PamelaJHoward@rhyta.com,408-827-5832,0
+Recipient,Chester,Smart,1307CemeteryStreet,SanFrancisco,CA,94104,US,ChesterMSmart@teleworm.us,831-824-4746,0.8283377037316971
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,4.804554779250544
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,4.974010051415889
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,9.15167662856185
+Recipient,Helen,Nabors,4500JimRosaLane,SanFrancisco,CA,94108,US,HelenDNabors@einrot.com,415-839-9840,9.4421154707819

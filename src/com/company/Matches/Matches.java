@@ -1,10 +1,14 @@
 package com.company.Matches;
 
 import com.company.Customer;
-import com.company.DistanceCalculator.Calculator;
+import com.company.DistanceCalculator.DistanceCalculator;
+import com.company.DistanceCalculator.GMapCalculator;
+import com.company.DistanceCalculator.LatLongCalculator;
 import com.company.Recipient;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class Matches {
 
@@ -97,13 +101,6 @@ public class Matches {
         return true;
 
     }
-//        System.out.println("Pickup_Time[0] " + pickup_Time[0]);
-//        System.out.println("Pickup_Time[1] " + pickup_Time[1]);
-//        System.out.println("Driving_Time " + driving_Time);
-//        System.out.println("Drop off Hour " + dropoff_Hour);
-//
-//        System.out.println("Pindex: " + pickup_Index);
-//        System.out.println("Dindex: " + dropoff_Index);
 
     /**
      * The find matches will check with each customer if any of the recipients within the list are a match.
@@ -115,33 +112,36 @@ public class Matches {
      * @param recipients_list The list of participating recipients accepting food
      * @return A list of all the matches found, unsorted.
      */
-    public static List<Recipient> findMatches(Customer customer, List<Recipient> recipients_list) {
+    public static List<Recipient> findMatches(Customer customer, List<Recipient> recipients_list, int strategy) throws Exception {
 
-        //The List of matches to return and the Calculator for distance away
+        //The List of matches to return and the DistanceCalculator for distance away
         List<Recipient> matches = new ArrayList<>();
-        Calculator calculator = new Calculator();
+        DistanceCalculator distanceCalculator;
+        double[] distNDriveTime;
+
+        if(strategy == 0) { distanceCalculator = new LatLongCalculator(); }
+        else{ distanceCalculator = new GMapCalculator(); }
 
         //For each recipient in the list, check if the customer's items can be delivered to them
         for (Recipient recipient : recipients_list) {
 
             //Check distance between the customer and recipient is less than 10 miles
-            double distance = calculator.calcByLatLng(customer.getLatitude(), customer.getLongitude(),
+            distNDriveTime = distanceCalculator.calc(customer.getLatitude(), customer.getLongitude(),
                     recipient.getLatitude(), recipient.getLongitude());
 
-            if (distance <= MAXDISTANCE) {
+            if ( distNDriveTime != null && distNDriveTime[0] <= MAXDISTANCE ) {
 
                 //Calculate pickup and dropoff times of customer and recipient
                 int dayNum = customer.getDayOfPickUp();
                 int[] pickup_Time = customer.getTimeOfPickUp();
                 int dropoff_Time = Integer.parseInt(recipient.getDayOfPickUp(dayNum));
 
-
                 //Check if recipient can accept the donated food items and if times match
                 if (donationMatch(customer.getCategories(), recipient.getRestrictions())
-                        && timeMatch(pickup_Time, dropoff_Time, 0)) {
+                        && timeMatch(pickup_Time, dropoff_Time, (int)distNDriveTime[1])) {
 
                     //Matched! Set distance of recipient and add to list of matches
-                    recipient.setDistanceToCustomer(distance);
+                    recipient.setDistanceToCustomer(distNDriveTime[0]);
                     matches.add(recipient);
                 }
 

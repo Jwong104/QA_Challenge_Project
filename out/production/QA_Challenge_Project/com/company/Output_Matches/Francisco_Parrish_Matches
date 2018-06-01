@@ -1,0 +1,20 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Francisco,Parrish,348 Ella Street,San Francisco,CA,94107,US,FranciscoJParrish@gustr.com,650-207-2651,0
+Recipient,Nereida,Seely,4822RardinDrive,SanFrancisco,CA,94124,US,NereidaRSeely@gustr.com,650-732-1251,0.8039358504186057
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,1.0054087464216972
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,1.1118280625449295
+Recipient,Ira,Maxwell,1909WolfPenRoad,SanFrancisco,CA,94107,US,IraIMaxwell@cuvox.de,650-403-6015,1.1850652434697824
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,1.6187641676494475
+Recipient,Roger,Stewart,437LocustViewDrive,SanFrancisco,CA,94143,US,RogerSStewart@superrito.com,415-894-9159,3.518347435662179
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,3.6790632148654785
+Recipient,Betty,Boatner,1751LocustViewDrive,SanFrancisco,CA,94118,US,BettyJBoatner@gustr.com,415-933-0390,3.889973405962068
+Recipient,Maria,Allen,3820BoringLane,SanFrancisco,CA,94143,US,MariaRAllen@einrot.com,415-598-4572,5.837354508090028
+Recipient,Chester,Smart,1307CemeteryStreet,SanFrancisco,CA,94104,US,ChesterMSmart@teleworm.us,831-824-4746,6.182972190480616
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,6.870222571282104
+Recipient,Daniel,Huffman,208RardinDrive,SanFrancisco,CA,94104,US,DanielAHuffman@rhyta.com,650-645-8239,7.260104026969087
+Recipient,Guillermo,Nord,2919JimRosaLane,SanFrancisco,CA,94108,US,GuillermoGNord@cuvox.de,415-839-2068,7.449484826898391
+Recipient,Malka,Weathersby,41JimRosaLane,SanFrancisco,CA,94108,US,MalkaDWeathersby@einrot.com,415-781-7825,7.471590182722461
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,7.84236693135978
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,8.18670064048184
+Recipient,Barbara,Garcia,4745HarrisonStreet,SanFrancisco,CA,94107,US,BarbaraFGarcia@einrot.com,415-515-9177,9.45944289949929
+Recipient,Rosa,Stone,3751LindaleAvenue,SanFrancisco,CA,94107,US,RosaDStone@cuvox.de,510-497-5234,9.81831839002235

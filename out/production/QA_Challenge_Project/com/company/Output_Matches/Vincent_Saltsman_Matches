@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Vincent,Saltsman,3619 Boring Lane,San Francisco,CA,94143,US,VincentCSaltsman@gustr.com,415-644-9191,0
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,6.353122564995239
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,6.872198709860826
+Recipient,Michael,Carter,1591DelawareAvenue,SanFrancisco,CA,94107,US,MichaelDCarter@gustr.com,415-308-3956,7.778078545922589
+Recipient,James,Davis,4409WolfPenRoad,SanFrancisco,CA,94107,US,JamesBDavis@fleckens.hu,650-392-2779,7.945073600963537

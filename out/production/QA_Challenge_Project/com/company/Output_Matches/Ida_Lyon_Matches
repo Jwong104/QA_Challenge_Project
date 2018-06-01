@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Ida,Lyon,445 Jim Rosa Lane,San Francisco,CA,94103,US,IdaLLyon@einrot.com,415-863-2076,0
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,4.014456345598512
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,7.796653345216119

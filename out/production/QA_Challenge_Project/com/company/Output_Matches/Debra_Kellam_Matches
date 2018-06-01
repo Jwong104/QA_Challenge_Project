@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Debra,Kellam,1727 Thunder Road,San Francisco,CA,94111,US,DebraSKellam@gustr.com,650-545-5488,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,2.134311675230107
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,4.835113057738139
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,8.942106464683691

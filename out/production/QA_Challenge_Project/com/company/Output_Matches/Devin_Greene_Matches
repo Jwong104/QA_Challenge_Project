@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Devin,Greene,4752 Boring Lane,San Francisco,CA,94115,US,DevinDGreene@superrito.com,415-674-3293,0
+Recipient,Linda,Brown,2870HaulRoad,SanFrancisco,CA,94143,US,LindaEBrown@superrito.com,650-999-3353,2.073850951259778
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,4.427636633705485
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,5.751096454091076
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,6.493964597964456
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,6.841586288132081
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,9.885757877719811

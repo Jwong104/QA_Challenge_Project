@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Shirley,Thomas,4598 Clifford Street,San Francisco,CA,94124,US,ShirleyCThomas@rhyta.com,510-686-4198,0
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,2.472777908109271
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,6.017780501619326
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,7.467510755310404

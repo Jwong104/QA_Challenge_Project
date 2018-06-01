@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.DistanceCalculator.DistanceCalculator;
+
 /**
  * Class Customer used to hold information of each customer, implements Comparable for sorting
  */
@@ -25,6 +27,7 @@ public class Recipient implements Comparable<Recipient> {
     private String friday;
     private String saturday;
     private Double distanceToCustomer;
+    private DistanceCalculator calculator;
 
     /**
      * All of the information of customer is provided by CSV File thus this constructor
@@ -81,9 +84,7 @@ public class Recipient implements Comparable<Recipient> {
      */
     @Override
     public int compareTo(Recipient recipient) {
-        System.out.println("IN");
         int compareDistance = (int) (recipient.getDistanceToCustomer() * 1000);
-        //return (int)(compareDistance - (this.getDistanceToCustomer() * 1000));
         return (int)((this.getDistanceToCustomer() * 1000) - compareDistance);
     }
 

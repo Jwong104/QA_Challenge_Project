@@ -1,0 +1,20 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Bonnie,Knapp,2813 Thunder Road,San Francisco,CA,94103,US,BonnieRKnapp@fleckens.hu,650-472-2835,0
+Recipient,Jayme,Janicki,4120LocustViewDrive,SanFrancisco,CA,94105,US,JaymeDJanicki@armyspy.com,415-890-4101,2.389020084046766
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,3.9149558341690667
+Recipient,Geneva,Esposito,3707MeadowLane,SanFrancisco,CA,94108,US,GenevaTEsposito@gustr.com,707-365-2654,4.18372686056851
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.015474133427051
+Recipient,Janet,Hardison,1235RooseveltStreet,SanFrancisco,CA,94103,US,JanetDHardison@einrot.com,415-462-8764,5.837010594427152
+Recipient,Jackson,McBride,2592JimRosaLane,SanFrancisco,CA,94108,US,JacksonSMcBride@fleckens.hu,415-788-7377,5.963697937937031
+Recipient,Ilse,Eaves,1793BrownStreet,SanFrancisco,CA,94104,US,IlseREaves@superrito.com,925-949-1646,6.151076978881416
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,6.631058675660106
+Recipient,Manuela,Forster,1128WolfPenRoad,SanFrancisco,CA,94107,US,ManuelaDForster@jourrapide.com,650-362-9859,7.113132505005879
+Recipient,Kathryn,McDuffie,2231ThunderRoad,SanFrancisco,CA,94104,US,KathrynJMcDuffie@superrito.com,650-581-3448,7.175586791421684
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,7.5904390945992395
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,7.942575263148875
+Recipient,Tanya,Matthews,1780BlackOakHollowRoad,SanFrancisco,CA,94107,US,TanyaKMatthews@teleworm.us,408-702-0996,8.005083255066003
+Recipient,Terese,Wilkins,2492ForestAvenue,SanFrancisco,CA,94143,US,TereseAWilkins@superrito.com,650-202-7617,8.428547791079358
+Recipient,Ronald,Kennedy,4343RardinDrive,SanFrancisco,CA,94107,US,RonaldDKennedy@armyspy.com,650-648-9299,8.812780212796826
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,9.16783255024509
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,9.712025274481842
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,9.993310036426593

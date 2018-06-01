@@ -32,14 +32,18 @@ public class CSVMaker {
      */
     public void makeCSVFile(String fileName, Customer customer, List<Recipient> matches) {
 
+        //Location of where files will be written to
         File file = new File("out/production/QA_Challenge_Project/com/company/Output_Matches/"+fileName);
         FileWriter fileWriter = null;
-        try {
-            fileWriter = new FileWriter(file);
 
+        try {
+
+            //Append to the head of the file the column names of the CSV file
+            fileWriter = new FileWriter(file);
             fileWriter.append(FILE_HEADER);
             fileWriter.append(NEWLINE);
 
+            //Append Customer information
             fileWriter.append("Customer" + DELIMITER);
             fileWriter.append(customer.getFirstName() + DELIMITER);
             fileWriter.append(customer.getLastName() + DELIMITER);
@@ -52,6 +56,7 @@ public class CSVMaker {
             fileWriter.append(customer.getPhone() + DELIMITER);
             fileWriter.append("0" + NEWLINE);
 
+            //Append the matches under the customer
             for(Recipient recipient : matches){
 
                 fileWriter.append("Recipient" + DELIMITER);

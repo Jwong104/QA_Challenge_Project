@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Julia,Horton,4274 Station Street,San Francisco,CA,94104,US,JuliaRHorton@fleckens.hu,510-896-9009,0
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,5.79747669840321

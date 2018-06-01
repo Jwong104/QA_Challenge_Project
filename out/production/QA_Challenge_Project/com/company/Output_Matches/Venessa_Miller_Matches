@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Venessa,Miller,1665 Emily Renzelli Boulevard,San Francisco,CA,94143,US,VenessaGMiller@superrito.com,831-572-7039,0
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,3.5396446555977743
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,6.115330159871266
+Recipient,Charles,Fields,1307RooseveltStreet,SanFrancisco,CA,94115,US,CharlesMFields@teleworm.us,415-359-7985,6.15751254572449
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,6.788256527195849
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,7.260810660062125
+Recipient,Harriet,Patel,3664RooseveltStreet,SanFrancisco,CA,94108,US,HarrietJPatel@armyspy.com,415-393-0301,7.480673215914626
+Recipient,Rosa,Stone,3751LindaleAvenue,SanFrancisco,CA,94107,US,RosaDStone@cuvox.de,510-497-5234,9.533463074058417

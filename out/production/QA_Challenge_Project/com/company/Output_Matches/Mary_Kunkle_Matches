@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Mary,Kunkle,2114 Harrison Street,San Francisco,CA,94115,US,MaryJKunkle@cuvox.de,415-563-6969,0
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,3.433361473848245
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,4.885092595302963
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,5.4797289039685415
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,5.937527941629472
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,8.830908871173179

@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,David,Long,4215 Alexander Avenue,San Francisco,CA,94111,US,DavidMLong@jourrapide.com,925-571-0864,0
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,1.5931730912213429
+Recipient,James,Davis,4409WolfPenRoad,SanFrancisco,CA,94107,US,JamesBDavis@fleckens.hu,650-392-2779,6.3023624825446065
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,9.106188113233083
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,9.142785605548987
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,9.798471091327325

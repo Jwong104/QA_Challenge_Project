@@ -1,0 +1,12 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Rachel,Hines,355 Harrison Street,San Francisco,CA,94143,US,RachelGHines@jourrapide.com,415-543-2713,0
+Recipient,Leroy,Davis,3328JimRosaLane,SanFrancisco,CA,94143,US,LeroyCDavis@superrito.com,415-836-6094,3.203682206601509
+Recipient,Harriet,Patel,3664RooseveltStreet,SanFrancisco,CA,94108,US,HarrietJPatel@armyspy.com,415-393-0301,4.475866026339769
+Recipient,Helen,Grady,2780LocustViewDrive,SanFrancisco,CA,94143,US,HelenJGrady@cuvox.de,415-932-3230,4.5134094943603555
+Recipient,Alberto,Johnson,1984DelawareAvenue,SanFrancisco,CA,94108,US,AlbertoLJohnson@einrot.com,415-244-9566,5.429565404996646
+Recipient,Johnny,Schutt,4300BoringLane,SanFrancisco,CA,94110,US,JohnnyJSchutt@gustr.com,415-647-1106,5.683603469822806
+Recipient,Donna,Clark,1656EllaStreet,SanFrancisco,CA,94107,US,DonnaTClark@gustr.com,650-276-8952,8.245990326706755
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,8.7330637691496
+Recipient,Daniel,Huffman,208RardinDrive,SanFrancisco,CA,94104,US,DanielAHuffman@rhyta.com,650-645-8239,8.767968680331666
+Recipient,Ruth,Thornell,1807MeadowLane,SanFrancisco,CA,94103,US,RuthJThornell@rhyta.com,707-281-3007,8.827490080973112
+Recipient,Barbara,Garcia,4745HarrisonStreet,SanFrancisco,CA,94107,US,BarbaraFGarcia@einrot.com,415-515-9177,9.13314435950581

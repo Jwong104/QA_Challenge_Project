@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Debra,Holt,1672 Driftwood Road,San Francisco,CA,94108,US,DebraEHolt@dayrep.com,408-348-5551,0
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,2.148691021657498
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,4.319830066811715
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,6.405544784462001
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,7.473319786098856
+Recipient,Alberto,Johnson,1984DelawareAvenue,SanFrancisco,CA,94108,US,AlbertoLJohnson@einrot.com,415-244-9566,8.425762558108698

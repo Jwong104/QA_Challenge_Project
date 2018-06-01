@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Carroll,Keys,3529 Friendship Lane,San Francisco,CA,94104,US,CarrollRKeys@superrito.com,408-564-8129,0
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,3.1998391631323986
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,7.56880577063091
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,7.735314648506519
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,8.838740291558874
+Recipient,Mary,Lininger,470RooseveltStreet,SanFrancisco,CA,94107,US,MaryJLininger@dayrep.com,415-375-7962,8.914266010016714
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,9.863152202408957

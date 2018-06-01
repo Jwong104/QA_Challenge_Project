@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Jose,Skaggs,2454 Davis Avenue,San Francisco,CA,94103,US,JoseDSkaggs@einrot.com,707-780-9700,0
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,0.5572029962435344
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,1.025942627455136
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,1.3842328913307347
+Recipient,Carol,Davis,2832PrettyViewLane,SanFrancisco,CA,94103,US,CarolJDavis@superrito.com,707-885-2806,2.82161676706492
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,5.0598872021192935
+Recipient,Stanley,Ryan,1394StationStreet,SanFrancisco,CA,94107,US,StanleyERyan@cuvox.de,510-978-2619,5.484119431276188
+Recipient,Stacey,Sutton,4701DavisAvenue,SanFrancisco,CA,94103,US,StaceyMSutton@gustr.com,707-667-5226,5.968529120803299

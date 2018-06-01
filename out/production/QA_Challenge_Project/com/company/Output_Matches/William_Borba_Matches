@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,William,Borba,1755 Pretty View Lane,San Francisco,CA,94103,US,WilliamMBorba@dayrep.com,707-872-9955,0
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,0.3959397788817274
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,1.7581086479039736
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,2.773970752798979
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,3.431497664218521
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,3.889590953400581

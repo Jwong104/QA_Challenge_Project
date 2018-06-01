@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Joseph,Knight,49 Larry Street,San Francisco,CA,94107,US,JosephJKnight@fleckens.hu,415-228-0159,0
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,1.824576762211139
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,7.739042037948159

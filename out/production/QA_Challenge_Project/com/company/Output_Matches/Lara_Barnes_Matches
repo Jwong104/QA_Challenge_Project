@@ -1,0 +1,17 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Lara,Barnes,682 Water Street,San Francisco,CA,94124,US,LaraLBarnes@cuvox.de,925-300-5406,0
+Recipient,James,Pitts,4312AlexanderAvenue,SanFrancisco,CA,94111,US,JamesFPitts@cuvox.de,925-573-5318,3.655774605243631
+Recipient,Alberto,Johnson,1984DelawareAvenue,SanFrancisco,CA,94108,US,AlbertoLJohnson@einrot.com,415-244-9566,5.399376616989756
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,5.46443296129388
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,6.01540382326141
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,6.402170508934531
+Recipient,Guillermo,Nord,2919JimRosaLane,SanFrancisco,CA,94108,US,GuillermoGNord@cuvox.de,415-839-2068,7.029943831658234
+Recipient,Manuela,Forster,1128WolfPenRoad,SanFrancisco,CA,94107,US,ManuelaDForster@jourrapide.com,650-362-9859,7.051516374781412
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,7.187847861334595
+Recipient,Imogene,Briley,2667ThunderRoad,SanFrancisco,CA,94108,US,ImogeneTBriley@superrito.com,650-483-9444,7.5213602527658825
+Recipient,Patricia,Baxter,1445FriendshipLane,SanFrancisco,CA,94108,US,PatriciaTBaxter@gustr.com,408-674-2510,7.9559547968477435
+Recipient,Malka,Weathersby,41JimRosaLane,SanFrancisco,CA,94108,US,MalkaDWeathersby@einrot.com,415-781-7825,8.409797376692218
+Recipient,Elizabeth,Jimenez,4534WolfPenRoad,SanFrancisco,CA,94107,US,ElizabethIJimenez@gustr.com,650-412-7569,8.577005552243817
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,9.35006758287387
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,9.637808306168159
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,9.67202782332768

@@ -1,0 +1,22 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Carrie,Tolbert,1878 Thunder Road,San Francisco,CA,94108,US,CarrieJTolbert@einrot.com,650-455-2148,0
+Recipient,Terese,Wilkins,2492ForestAvenue,SanFrancisco,CA,94143,US,TereseAWilkins@superrito.com,650-202-7617,0.6107194830865291
+Recipient,Christopher,Armer,3421DuckCreekRoad,SanFrancisco,CA,94108,US,ChristopherMArmer@armyspy.com,650-766-1028,1.318834960504181
+Recipient,Vicki,Smith,2653RardinDrive,SanFrancisco,CA,94107,US,VickiNSmith@rhyta.com,650-722-6966,1.623614515741529
+Recipient,James,Varner,2885BoringLane,SanFrancisco,CA,94107,US,JamesEVarner@armyspy.com,415-683-8255,1.672509704736651
+Recipient,Nellie,Sievers,2569ThunderRoad,SanFrancisco,CA,94111,US,NellieJSievers@jourrapide.com,650-545-2880,1.8323521212717513
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,1.8971515314782694
+Recipient,Ronald,Kennedy,4343RardinDrive,SanFrancisco,CA,94107,US,RonaldDKennedy@armyspy.com,650-648-9299,1.9560753935041182
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,2.0293351862941758
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,2.3348758807303764
+Recipient,Helen,Nabors,4500JimRosaLane,SanFrancisco,CA,94108,US,HelenDNabors@einrot.com,415-839-9840,2.471093080366561
+Recipient,Alberto,Johnson,1984DelawareAvenue,SanFrancisco,CA,94108,US,AlbertoLJohnson@einrot.com,415-244-9566,2.722602896580784
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,2.7741861823589224
+Recipient,Joshua,Novick,3869WaysideLane,SanFrancisco,CA,94108,US,JoshuaSNovick@gustr.com,510-303-7800,3.489304608235754
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,5.050382832738777
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.895087685231292
+Recipient,Nancy,Evans,1474LocustViewDrive,SanFrancisco,CA,94108,US,NancyREvans@einrot.com,415-986-6693,6.074950378022594
+Recipient,Malcolm,Miller,2423HideAWayRoad,SanFrancisco,CA,94108,US,MalcolmMMiller@rhyta.com,408-250-3296,7.211433854529296
+Recipient,Latisha,Brawley,3054BoringLane,SanFrancisco,CA,94105,US,LatishaBBrawley@rhyta.com,415-680-0530,7.240215939676036
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,7.806784268006319
+Recipient,Benjamin,Hunter,2265StationStreet,SanFrancisco,CA,94104,US,BenjaminPHunter@einrot.com,510-921-8576,8.43199292330758

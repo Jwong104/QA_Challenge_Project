@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Tara,Ohanlon,693 Lindale Avenue,San Francisco,CA,94107,US,TaraJOhanlon@teleworm.us,510-584-9332,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,4.8946376995468635
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,6.866278268125239

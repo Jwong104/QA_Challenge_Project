@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Steven,Fine,4297 Hillview Drive,San Francisco,CA,94103,US,StevenPFine@armyspy.com,707-204-1787,0
+Recipient,Michael,Carter,1591DelawareAvenue,SanFrancisco,CA,94107,US,MichaelDCarter@gustr.com,415-308-3956,5.185120678308209
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,8.174171395513103
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,9.098635906175556

@@ -1,0 +1,18 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Jesus,Fuqua,692 Meadow Lane,San Francisco,CA,94108,US,JesusKFuqua@teleworm.us,707-318-8239,0
+Recipient,Saundra,Turner,4592WolfPenRoad,SanFrancisco,CA,94107,US,SaundraKTurner@rhyta.com,650-400-4902,1.133576679859073
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,1.3744881749143272
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,2.317198726161421
+Recipient,Elizabeth,Jimenez,4534WolfPenRoad,SanFrancisco,CA,94107,US,ElizabethIJimenez@gustr.com,650-412-7569,3.3478345642526577
+Recipient,Malka,Weathersby,41JimRosaLane,SanFrancisco,CA,94108,US,MalkaDWeathersby@einrot.com,415-781-7825,3.7433585837373995
+Recipient,Tina,Hursey,730CliffordStreet,SanFrancisco,CA,94105,US,TinaWHursey@armyspy.com,510-629-2177,4.030891796775426
+Recipient,Manuela,Forster,1128WolfPenRoad,SanFrancisco,CA,94107,US,ManuelaDForster@jourrapide.com,650-362-9859,4.0481290970001185
+Recipient,Patricia,Baxter,1445FriendshipLane,SanFrancisco,CA,94108,US,PatriciaTBaxter@gustr.com,408-674-2510,4.171244068218526
+Recipient,Guillermo,Nord,2919JimRosaLane,SanFrancisco,CA,94108,US,GuillermoGNord@cuvox.de,415-839-2068,5.821555733129016
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,6.156614238941533
+Recipient,Imogene,Briley,2667ThunderRoad,SanFrancisco,CA,94108,US,ImogeneTBriley@superrito.com,650-483-9444,6.322102707794339
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,6.509521456588188
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,6.642453442207331
+Recipient,James,Pitts,4312AlexanderAvenue,SanFrancisco,CA,94111,US,JamesFPitts@cuvox.de,925-573-5318,7.463510548511757
+Recipient,Steven,Brown,2440WaysideLane,SanFrancisco,CA,94107,US,StevenMBrown@jourrapide.com,510-322-4900,7.5326683295703685
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,8.249078523539179

@@ -1,38 +1,57 @@
-While you are working to implement this challenge, you must document your entire work: your initial thoughts, plans, approach, unit test results, overall result, results analysis, and conclusion. It is highly recommended that your documentation is as thorough as possible.
+While you are working to implement this challenge, you must document your entire work: your initial thoughts, plans,
+approach, unit test results, overall result, results analysis, and conclusion. It is highly recommended that your
+documentation is as thorough as possible.
 
 Initial Thoughts:
-Should I use a database to handle the data? Did some research on sql and nosql and realized that in either situation, I won't need to plan to host my own database server as output should be written to a csv file.
 
-List data structure might be the best option to hold the two categories of ppl
+I am wondering if I should use a database to handle the data? After some some research on sql and nosql I realized
+that in either situation, I won't need to plan to host my own database server as output should be written to a csv file.
 
-Will I need to check/sort every customer? I will need to compare something with each customer, and the best way to do this will be to compare the coordinates to check if they are within the 10 mile radius. and if they are, I will put them into a match list and sort when i reach the end of the recipient list
+Will I need to check/sort every customer? I will need to compare something with each customer, and the best way to do
+this will be to compare the coordinates to check if they are within the 10 mile radius. and if they are, I will put
+them into a match list and sort when i reach the end of the recipient list
+
+List data structure might be the best option to hold the two categories of ppl because for each customer, I will have
+to compare their coordinates to the coordinates of the recipient.
 
 To parse I will need to use commas, ',', as the delimiter and new lines '/n' to separate each customer/recipient object.
 
+From here I started coding while thinking about the various things I need to do.
 
-Plan and Initial development/thoughts:
-Create Customer and Recipient Classes to hold profile info:
-Create two classes, customer and recipient to hold information
+Plan and approach:
+
+Created Customer and Recipient Classes to hold profile information.
 
 Initial Matching Algorithm:
 Parse customer and recipients into their respective objects and put them into their lists: customer_list, recipient_list
-Create a function to calculate the distance between two coordinates, thought maybe I should also add an extra feature using google maps API but this will be a stretch goal
-Add to the customer list a list of matches to hold the recipients found within the 10 mile radius and sort when a customer has compared itself to all recipients
-Matches will be based on timezone, hours, as well as the restrictions/categories
+Create a function to calculate the distance between two coordinates, thought maybe I should also add an extra feature
+using google maps API but this will be a stretch goal.
+Add to the customer list a list of matches to hold the recipients found within the 10 mile radius and sort when a
+customer has compared itself to all recipients.
+
+Matches will be based on timezone, hours, as well as the restrictions/categories. Thus I need to figure out time zone
+offsets and computing the actual time at that moment. For restrictions and categories I will just have to compare their
+bits.
 
 Initial thoughts on how to sort matches:
-Miles between longitude and latitude coordinates -> those that are in 10 mile ranges of the customer I will save into a data structure for further sorting
+I googled/stackoverflowed how to find the distance from one point to another but in the real world that is not realistic
+at all. Perhaps I will go with the google maps implementation once I have this feature done. Using the strategy
+pattern would not be a bad idea as there are many different ways for the calculator to calculate the distance.
 
 Initial thoughts on Output:
 Output results to CSV file in some format -> Customer  | List of Recipients -> Address, Miles away, List of Receivers
-I was thinking that if there was a feature that the application can plan out multiple routes/destinations creating multiple csv files can be used as a cache for the present and be updated as the user finishes each of their trips and location/traffic changes
+I was thinking that if there was a feature that the application can plan out multiple routes/destinations
+creating multiple csv files can be used as a cache for the present and be updated as the user finishes each of
+their trips and location/traffic changes.
 
 Developing Code and Process:
-Created a separate package for handling CSV read and write, Package for sorting, Package for Calculating distance, Package for user classes
+Created a separate package for handling CSV read and write,
+Package for sorting,
+Package for Calculating distance
 
 
-Created a separate folder for handling distance calculating, since I might be creating a calculator to calculate distance, I might look into
-subclassing/interfacing an abstract class to handle the different kind of calculations. Leaning towards interface as a Distance calculator
+Created a separate folder for handling distance calculating, since I might be creating a distanceCalculator to calculate distance, I might look into
+subclassing/interfacing an abstract class to handle the different kind of calculations. Leaning towards interface as a Distance distanceCalculator
 can be many different types of calculators, ones that can calculate solely based on longitude and latitude, or calculate distance through the
 google maps api
 
@@ -42,24 +61,24 @@ Developing:
 
 Matching Category to Restriction:
 To create the function that would output 1 or 0 if the categories of the customer and the restrictions of the recipient
-matched, I initially tried to convert the integer into a string and then back into a binary string so that I can compare each bit.
-Only after 15-20 mins of being somewhat frustrated from trying to optimize the amount of conversions I had made (2-3...)
-I realized I could just use the '&' bit-wise logical
-operator to have the behavior I wanted.
+matched, I initially tried to convert the integer into a string and then back into a binary string so that I can compare
+each bit. Only after 15-20 mins of being somewhat frustrated from trying to optimize the amount of conversions
+I had made (2-3...) I realized I could just use the '&' bit-wise logical operator to have the behavior I wanted.
 
-At first to create matches I thought that I could create a neat feature for the user of the program to select the date of pick up....
-only to realize later that that would be obsolete as the days to compare recipient and customer times are dependent on the pickup date and time
-of the customer. Wasted a few hours on this oh well :/.
+At first to create matches I thought that I could create a neat feature for the user of the program to select the date
+of pick up.... but I realized realize that that would be obsolete as the days to compare recipient and customer
+times are dependent on the pickup date and time of the customer.
 
 Figuring out time discrepancy:
-Because customer and recipient would be in the same location, I thought it would be fine if I didn't figure out the timezone offset.
-However after more careful deliberation, the hours that I use to compare won't be the true hours in that location, and so I figured out
-from the java documentation a way to find out the time in a specific time zone location. Because of the dependency I recognized before,
-it seemed like calculating the offset for the customer's time allowed me to use the recipients time without the offset as by converting the customer's
-local time, the recipient's times are set and will be in the same time.
-To figure out the recipient's bits for time calculation, I needed to pass from the customer object to the recipient objects what
-the day of the week was to output the appropriate bits for their hours of operation. Initially used calendar and day classes from the
-java library, but noticed it was deprecated and was difficult to work with. Luckily after researching a bit more I found the
+Because customer and recipient would be in the same location, I thought it would be fine if I didn't figure out the
+timezone offset. However after more careful deliberation, the hours that I use to compare won't be the true hours in
+that location, and so I figured out from the java documentation a way to find out the time in a specific time zone
+location. Because of the dependency I recognized before, it seemed like calculating the offset for the customer's time
+allowed me to use the recipients time without the offset as by converting the customer's local time, the recipient's
+times are set and will be in the same time. To figure out the recipient's bits for time calculation, I needed to
+pass from the customer object to the recipient objects what the day of the week was to output the appropriate bits
+for their hours of operation. Initially used calendar and day classes from the java library, but noticed it was
+deprecated and was difficult to work with. Luckily after researching a bit more I found the
 TimeZone, DateTimeFormatter, LocalDateTime, and ZonedDateTime classes to help me figure out the time.
 
 Sorting recipients:
@@ -78,7 +97,16 @@ hours were from 1 AM -7 AM. But I realized that as a system, it can't handle err
 implementation to return false instead. This gave me the idea to perhaps also have a way to sort the matches based on
 time of arrival, not just the regular distance.
 
-Testing:
+Google Maps API:
+This was honestly a stretch goal but I was able to complete it on Thursday. From the api call I passed the miles away
+as well as the duration of time traveled into my other functions easily and little change occurred to my code logic/flow
+from this extra feature.
+
+Unit Testing Results:
     Tested all functions I wrote that can have variable logic.
 
-Google Maps API:
+Overall Result:
+
+Result Analysis:
+
+Conclusion:

@@ -1,0 +1,12 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Reggie,Ealey,3951 Duck Creek Road,San Francisco,CA,94103,US,ReggieJEaley@teleworm.us,650-860-7486,0
+Recipient,Mary,Thomas,302StationStreet,SanFrancisco,CA,94103,US,MaryMThomas@jourrapide.com,510-870-1254,1.2910028757934076
+Recipient,Ira,Maxwell,1909WolfPenRoad,SanFrancisco,CA,94107,US,IraIMaxwell@cuvox.de,650-403-6015,3.834880313808827
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,4.236809039462536
+Recipient,James,Davis,4409WolfPenRoad,SanFrancisco,CA,94107,US,JamesBDavis@fleckens.hu,650-392-2779,4.620699057982355
+Recipient,Betty,Boatner,1751LocustViewDrive,SanFrancisco,CA,94118,US,BettyJBoatner@gustr.com,415-933-0390,5.223799383554177
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.389219574154618
+Recipient,Carol,Payne,484EllaStreet,SanFrancisco,CA,94107,US,CarolTPayne@gustr.com,650-297-9398,5.960878460009038
+Recipient,Roger,Stewart,437LocustViewDrive,SanFrancisco,CA,94143,US,RogerSStewart@superrito.com,415-894-9159,6.113339994305581
+Recipient,Joyce,English,3773HillviewDrive,SanFrancisco,CA,94103,US,JoyceJEnglish@jourrapide.com,707-216-2473,6.73495276006734
+Recipient,Reggie,Hunter,3041BoringLane,SanFrancisco,CA,94107,US,ReggieTHunter@einrot.com,415-737-1680,7.252458848748234

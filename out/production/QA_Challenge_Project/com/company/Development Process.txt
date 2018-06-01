@@ -31,8 +31,8 @@ Developing Code and Process:
 Created a separate package for handling CSV read and write, Package for sorting, Package for Calculating distance, Package for user classes
 
 
-Created a separate folder for handling distance calculating, since I might be creating a calculator to calculate distance, I might look into
-subclassing/interfacing an abstract class to handle the different kind of calculations. Leaning towards interface as a Distance calculator
+Created a separate folder for handling distance calculating, since I might be creating a distanceCalculator to calculate distance, I might look into
+subclassing/interfacing an abstract class to handle the different kind of calculations. Leaning towards interface as a Distance distanceCalculator
 can be many different types of calculators, ones that can calculate solely based on longitude and latitude, or calculate distance through the
 google maps api
 

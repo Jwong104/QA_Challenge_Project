@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Elijah,Fugate,2388 Harrison Street,San Francisco,CA,94124,US,ElijahSFugate@jourrapide.com,415-508-0783,0
+Recipient,Marion,Garland,4233EllaStreet,SanFrancisco,CA,94108,US,MarionPGarland@rhyta.com,650-296-9860,2.9928988715292575
+Recipient,Bonita,Vue,338ThunderRoad,SanFrancisco,CA,94108,US,BonitaCVue@dayrep.com,650-455-3995,6.063835958270455
+Recipient,Amy,Doyle,4916DuckCreekRoad,SanFrancisco,CA,94108,US,AmyJDoyle@superrito.com,650-862-7394,6.168424414509515
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,6.2614682274291225

@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Edward,Eads,2114 Locust View Drive,San Francisco,CA,94110,US,EdwardAEads@fleckens.hu,415-920-4780,0
+Recipient,Melodie,Upson,204LindaleAvenue,SanFrancisco,CA,94105,US,MelodieDUpson@jourrapide.com,510-485-8547,1.4918732067815792
+Recipient,Daniel,Huffman,208RardinDrive,SanFrancisco,CA,94104,US,DanielAHuffman@rhyta.com,650-645-8239,6.725593481361748
+Recipient,Manuela,Forster,1128WolfPenRoad,SanFrancisco,CA,94107,US,ManuelaDForster@jourrapide.com,650-362-9859,7.400329608157452
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,8.058498244532956
+Recipient,Lauren,Morning,4646FriendshipLane,SanFrancisco,CA,94104,US,LaurenOMorning@fleckens.hu,408-564-6856,8.699343336290385
+Recipient,Wanda,Sawyer,702RooseveltStreet,SanFrancisco,CA,94108,US,WandaESawyer@teleworm.us,415-403-5569,9.609429249042277

@@ -1,0 +1,7 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Stephen,Ladue,1232 Ventura Drive,San Francisco,CA,94107,US,StephenALadue@superrito.com,831-359-5393,0
+Recipient,Mariana,Summers,4991LocustViewDrive,SanFrancisco,CA,94108,US,MarianaJSummers@einrot.com,415-954-6888,2.82283440088573
+Recipient,Basil,Mendez,611ForestAvenue,SanFrancisco,CA,94143,US,BasilMMendez@armyspy.com,650-202-2768,4.286723382723569
+Recipient,Buddy,Rossi,1686LocustViewDrive,SanFrancisco,CA,94143,US,BuddyBRossi@fleckens.hu,415-908-6795,6.953253467432539
+Recipient,Edwin,Ingram,3086JimRosaLane,SanFrancisco,CA,94108,US,EdwinVIngram@teleworm.us,415-834-3217,6.989362356891972
+Recipient,Lou,Rose,2923JimRosaLane,SanFrancisco,CA,94112,US,LouRRose@armyspy.com,415-841-5259,9.895540274473644

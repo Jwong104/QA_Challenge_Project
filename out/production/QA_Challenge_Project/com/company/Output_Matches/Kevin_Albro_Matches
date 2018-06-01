@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Kevin,Albro,1777 Boring Lane,San Francisco,CA,94108,US,KevinVAlbro@cuvox.de,415-627-3367,0
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,8.362340785858267

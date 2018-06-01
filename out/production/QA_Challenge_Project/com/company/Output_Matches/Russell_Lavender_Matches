@@ -1,0 +1,4 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Russell,Lavender,515 Ventura Drive,San Francisco,CA,94111,US,RussellDLavender@einrot.com,831-255-0707,0
+Recipient,Lawrence,Miller,2024BoringLane,SanFrancisco,CA,94108,US,LawrenceMMiller@cuvox.de,415-622-1520,3.5686077626422184
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,5.902932587526261

@@ -1,0 +1,8 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Matthew,Byron,1260 Harrison Street,San Francisco,CA,94103,US,MatthewAByron@cuvox.de,415-551-9048,0
+Recipient,Mark,Leonard,2257RooseveltStreet,SanFrancisco,CA,94124,US,MarkBLeonard@einrot.com,415-467-8655,3.6470431684549536
+Recipient,Joseph,Murdock,2629JimRosaLane,SanFrancisco,CA,94103,US,JosephIMurdock@armyspy.com,415-865-8366,3.895439046980367
+Recipient,Arlene,Howard,4645HideAWayRoad,SanFrancisco,CA,94107,US,ArleneJHoward@dayrep.com,408-213-0718,6.254241140596945
+Recipient,Beth,Pittman,828JimRosaLane,SanFrancisco,CA,94143,US,BethAPittman@einrot.com,415-803-8050,8.007247931422567
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,8.577753071260052
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,9.116233924494795

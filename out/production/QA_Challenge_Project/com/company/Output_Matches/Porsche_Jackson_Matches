@@ -1,0 +1,5 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Porsche,Jackson,972 Meadow Lane,San Francisco,CA,94124,US,PorscheDJackson@einrot.com,707-404-1425,0
+Recipient,David,Austin,4164RooseveltStreet,SanFrancisco,CA,94108,US,DavidMAustin@superrito.com,415-434-0591,3.331550136038424
+Recipient,Wilma,Parker,4737WolfPenRoad,SanFrancisco,CA,94107,US,WilmaLParker@superrito.com,650-426-3556,6.28099554576578
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,8.312204090137811

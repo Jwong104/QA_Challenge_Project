@@ -1,0 +1,6 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Cathy,Bissonnette,1208 Jim Rosa Lane,San Francisco,CA,94110,US,CathyBBissonnette@gustr.com,415-824-0853,0
+Recipient,Daniel,Huffman,208RardinDrive,SanFrancisco,CA,94104,US,DanielAHuffman@rhyta.com,650-645-8239,1.279421308279827
+Recipient,Beverly,Caldwell,4352HarrisonStreet,SanFrancisco,CA,94107,US,BeverlyJCaldwell@gustr.com,415-531-7726,5.6545609522344655
+Recipient,Walter,Osborne,3376LarryStreet,SanFrancisco,CA,94107,US,WalterSOsborne@dayrep.com,415-226-7893,5.840826118019591
+Recipient,Stephanie,Salas,3231WolfPenRoad,SanFrancisco,CA,94107,US,StephanieJSalas@superrito.com,650-449-3909,7.19258271323847

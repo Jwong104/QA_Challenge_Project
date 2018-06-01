@@ -1,0 +1,3 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Thomas,Miller,1390 Roosevelt Street,San Francisco,CA,94107,US,ThomasYMiller@armyspy.com,415-424-3348,0
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,1.632153505571857

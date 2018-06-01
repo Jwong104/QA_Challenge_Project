@@ -1,0 +1,9 @@
+Type,FirstName,LastName,Street,City,State,Postal,Country,Email,Phone,DistanceAway
+Customer,Kelly,Johnson,3916 Jim Rosa Lane,San Francisco,CA,94108,US,KellyWJohnson@superrito.com,415-794-2453,0
+Recipient,Robert,Tripp,2250HaulRoad,SanFrancisco,CA,94104,US,RobertKTripp@rhyta.com,650-946-1913,1.5929664603632188
+Recipient,Jason,Cook,945JimRosaLane,SanFrancisco,CA,94108,US,JasonOCook@cuvox.de,415-834-3714,3.7709502350662016
+Recipient,Richard,Berkey,4623LocustViewDrive,SanFrancisco,CA,94108,US,RichardTBerkey@gustr.com,415-989-3660,4.4285456565054115
+Recipient,Norma,Irish,2198LocustViewDrive,SanFrancisco,CA,94143,US,NormaCIrish@dayrep.com,415-972-7097,5.324617212360049
+Recipient,Tracie,Mann,4755FordStreet,SanFrancisco,CA,94108,US,TraciePMann@teleworm.us,408-504-2300,5.978339690264075
+Recipient,Ricky,Harris,1117LynchStreet,SanFrancisco,CA,94103,US,RickyEHarris@dayrep.com,925-218-8043,7.2762925684026785
+Recipient,Rosa,Stone,3751LindaleAvenue,SanFrancisco,CA,94107,US,RosaDStone@cuvox.de,510-497-5234,8.715532340247677

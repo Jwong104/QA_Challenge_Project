@@ -67,8 +67,8 @@ public class CSVHelper {
         //While a customer profile exists, add them into the list
         while (scan.hasNextLine()) {
 
-            //Read in the info line, and parse
-            String line = scan.nextLine();
+            //Read in the info line strips white space if there is any, and parses into object
+            String line = scan.nextLine().replaceAll("\\s", "");
             if (line.length() != 0) {
                 String[] info = line.split(",", 19);
                 Recipient rec = new Recipient(info[0], info[1], info[2], info[3], info[4], info[5], info[6], info[7], info[8],
@@ -83,8 +83,15 @@ public class CSVHelper {
         return recipients;
     }
 
+    /**
+     * For each customer, and their match of recipients, use the CSVMaker class to
+     * create CSV files as output
+     * @param customer  The customer requesting pickup of their donations
+     * @param matches   The list of recipients who match the criteria for donating items
+     */
     public void outputMatchRecipients(Customer customer, List<Recipient> matches) {
 
+        //Pass file name as well as the customer and the matches to the CSVMaker
         CSVMaker maker = new CSVMaker();
         String fileName = customer.getFirstName() + "_" + customer.getLastName()+"_Matches";
         maker.makeCSVFile(fileName, customer, matches);
